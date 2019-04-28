@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Welcome to r3kapig Website !!!**
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # r3kapig
 
@@ -18,9 +14,9 @@ We actively partivipate in onlined and onsite CTF competitions. You can boowse o
 
 # Team Members
 
-> This is a blockquote following a header.
+> Give me a point, I can lift a flying pig.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> These are our members.
 
 ## Active Memebers
 
@@ -43,87 +39,41 @@ We actively partivipate in onlined and onsite CTF competitions. You can boowse o
 |      |            |
 |      |            |
 
-#### Header 4
+## Honorary Members
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| <img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
+| :----------------------------------------------------: | :----------------------------------------------------------- |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
+|                                                        |                                                              |
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Selected Awards
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+| DEFCON 26 CTF Final, 12th place (BFS)                | Las Vegas, USA, Aug. 2018 |
+| ---------------------------------------------------- | ------------------------: |
+| Nuit du Hack CTF Quals 2018, 3rd place (BFKinesiS)   |         Online, Oct. 2018 |
+| XCTF-RCTF 2018 Online, 4th palce place()             |                           |
+| Real World CTF 2018 Quals , 3rd                      |                           |
+|                                                      |                           |
+|                                                      |                           |
+| XCTF-BCTF 2018 , 1st🏆 place                          |         Online, Nov. 2018 |
+| Real World CTF 2018 Finals, 5th place                |                     .2018 |
+| Trend Micro CTF 2018 - Raimund Genes Cup - The Final |              Tokyo, Japan |
+| 0CTF/TCTF 2019 Quals                                 |                           |
+|                                        
 
-```
-The final element.
-```
