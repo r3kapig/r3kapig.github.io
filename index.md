@@ -28,7 +28,7 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 |  <img src="images/ricter.jpeg" width="100" height="100" />    |    **Ricter**<br />初❤️を忘れず<br />  - Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ)      |
 |   <img src="images/swing.jpeg" width="100" height="100" />    | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me]([https://bestwing.me)<br />- Github:[WinMin](https://github.com/WinMin)
            |
-| :--: | :--------- |
+| :----------------------------------------------------: | :---------------------------------------------------------- |
 |      |            |
 |      |            |
 |      |            |
@@ -40,7 +40,7 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 ## Honorary Members
 
 | <img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
-| :----------------------------------------------------: | :----------------------------------------------------------- |
+| :----------------------------------------------------: | :---------------------------------------------------------- |
 |                                                        |                                                              |
 |                                                        |                                                              |
 |                                                        |                                                              |
@@ -54,10 +54,7 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 |                                                        |                                                              |
 |                                                        |                                                              |
 |                                                        |                                                              |
-|                                                        |                                                              |
-|                                                        |                                                              |
-|                                                        |                                                              |
-
+|                                                        |                                                        
 
 
 # Selected Awards
