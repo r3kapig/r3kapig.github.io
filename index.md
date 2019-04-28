@@ -24,20 +24,24 @@ We actively partivipate in onlined and onsite CTF competitions. You can boowse o
 
 ## Active Memebers
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+| <img src="/Users/soindy/Desktop/app-components-short-look_2x.png" width="100" height="100" /> | **Atum**<br /> |
+| :--: | :--------- |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
 
 #### Header 4
 
