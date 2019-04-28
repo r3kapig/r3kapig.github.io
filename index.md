@@ -24,7 +24,7 @@ We actively partivipate in onlined and onsite CTF competitions. You can boowse o
 
 ## Active Memebers
 
-| <img src="/Users/soindy/Desktop/app-components-short-look_2x.png" width="100" height="100" /> | **Atum**<br /> |
+| <img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um)|
 | :--: | :--------- |
 |      |            |
 |      |            |
