@@ -8,13 +8,13 @@ layout: default
 
 # r3kapig
 
-r3kapig is CTF team united Team of Eur3kA and FlappyPig in 2018.We joked that r3kapig is a delicious dish that can be grilled and fried, and the mission of the team is to provide the most delicious food for the host.
+r3kapig is a united CTF Team mostly emerging from Eur3kA and FlappyPig since 2018. Our self-intro is that r3kapig is a delicious dish that can be grilled and fried, and the mission of the team is to provide the most delicious food for the host. :P
 
-We actively partivipate in onlined and onsite CTF competitions. You can boowse our recently participated enents and ranking on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, and etc. 
+We actively participate in onlined and onsite CTF competitions. You can browse our recently participated enents and ranks on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, etc. 
 
 # Team Members
 
-> Give me a point, I can lift a flying pig.
+> Give me a point, I can lift a flappy pig.
 >
 > These are our members.
 
