@@ -44,9 +44,8 @@ We actively participate in online and on-site CTF competitions. You can browse o
 
 
 # Selected Awards
-
-| DEFCON 26 CTF Final, 18th place                | Las Vegas, USA, Aug. 2018 |
 | ---------------------------------------------------- | ------------------------: |
+| DEFCON 26 CTF Final, 18th place                | Las Vegas, USA, Aug. 2018 |
 | Nuit du Hack CTF Quals 2018, 3rd place (JD-r3kapig)   |         Online, Oct. 2018 |
 | XCTF RCTF 2018 Online, 4th palce place()             |               Online, Oct. 2018            |
 | Real World CTF 2018 Quals , 3rd                      |     Online, July. 2018                      |
