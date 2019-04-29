@@ -32,6 +32,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/nightshadow.jpg" width="80" height="80"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog:[whklhhhh](http://blog.csdn.net/whklhhhh)|
 | <img src="images/f1sh.jpg" width="80" height="80"  />  | **f1sh**<br />Hacked by Swings<br />- Blog:[http://f1sh.site/](http://f1sh.site/)|
 | <img src="images/stypr.jpg" width="80" height="80" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog:[https://harold.kim/](https://harold.kim/)<br />- Github: [stypr](https://github.com/stypr)|
+| <img src="images/processor.jpg" width="80" height="80"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog:[https://processor.pub/](https://processor.pub/)|
 
 
 ## Historical Active Member
@@ -57,3 +58,5 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | Trend Micro CTF 2018 - Raimund Genes Cup - The Final |              Tokyo, Japan, Dec. 2018 |
 | 0CTF/TCTF 2019 Quals                                 |              Online, March. 2019             |
 | XCTF *CTF 2019 Quals , 1st🏆 place                   |              Online, April. 2019     | 
+
+
