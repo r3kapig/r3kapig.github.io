@@ -28,7 +28,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/ne0.jpeg" width="100" height="100" />       | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](https://changochen.github.io/about.html)<br />- Github: [Changochen](https://github.com/changochen) |
 | <img src="images/ricter.jpeg" width="100" height="100" />    | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ) |
 | <img src="images/swing.jpeg" width="100" height="100" />     | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](https://bestwing.me/)<br />- Github:[WinMin](https://github.com/WinMin) |
-| <img src="images/nonick.gifswing.jpeg" width="100" height="100" /> | **Nonick**<br />Uneducated<br /> - Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer) |
+| <img src="images/nonick.gif" width="100" height="100" /> | **Nonick**<br />Uneducated<br /> - Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer) |
 
 
 ## Historical Active Member
