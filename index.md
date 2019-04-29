@@ -8,9 +8,9 @@ layout: default
 
 # r3kapig
 
-r3kapig is a united CTF Team mostly emerging from Eur3kA and FlappyPig since 2018. Our self-intro is that r3kapig is a delicious dish that can be grilled and fried, and the mission of the team is to provide the most delicious food for the host. :P
+r3kapig is a united CTF Team mostly emerges from Eur3kA and FlappyPig since 2018. And just so you know, r3kapig is a delicious dish that can be grilled and fried, and the mission of the team is to provide the most delicious food for the host. :P
 
-We actively participate in onlined and onsite CTF competitions. You can browse our recently participated enents and ranks on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, etc. 
+We actively participate in online and on-site CTF competitions. You can browse our recently participated events and ranks on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, etc. 
 
 # Team Members
 
@@ -20,17 +20,22 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 
 ## Active Memebers
 
-| <img src="images/Atum.jpg" width="100" height="100" />    | **Atum** (Leader)<br />Peking University<br />- Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
-| --------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="images/bibi.jpg" width="100" height="100" />    | **Bibi** (Leader)                                            |
-| <img src="images/anciety.jpg" width="100" height="100" /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github:[Anciety](https://github.com/Escapingbug) |
-| <img src="images/mxny.jpeg" width="100" height="100" />   | **Mxny**  <br />Working on JD  <br />- Blog:[http://mxny.org](http://mxny.org) |
-| <img src="images/ne0.jpeg" width="100" height="100" />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](https://changochen.github.io/about.html)<br />- Github: [Changochen](https://github.com/changochen) |
-| <img src="images/ricter.jpeg" width="100" height="100" /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ) |
-| <img src="images/swing.jpeg" width="100" height="100" />  | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](https://bestwing.me/)<br />- Github:[WinMin](https://github.com/WinMin) |
-
-
-
+|<img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um)|
+|<img src="images/anciety.jpg" width="100" height="100" /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github:[Anciety](https://github.com/Escapingbug)|
+|<img src="images/bibi.jpg" width="100" height="100" />   |**Bibi**            |
+|<img src="images/mxny.jpeg" width="100" height="100" />   | **Mxny**  <br /> Working on JD  <br /> - Blog:[http://mxny.org](http://mxny.org)     |
+|<img src="images/ne0.jpeg" width="100" height="100" />   | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](https://changochen.github.io/about.html)<br />- Github: [Changochen](https://github.com/changochen)           |
+|<img src="images/ricter.jpeg" width="100" height="100" />    |    **Ricter**<br />初❤️を忘れず<br />  - Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ)      |
+|<img src="images/swing.jpeg" width="100" height="100" />    | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](https://bestwing.me/)<br />- Github:[WinMin](https://github.com/WinMin)|
+|<img src="images/nonick.gif" width="100" height="100" /> | **Nonick**<br />Uneducated<br /> - Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer)|
+| :----------------------------------------------------: | :---------------------------------------------------------- |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
+|      |            |
 
 ## Honorary Members
 
@@ -49,7 +54,7 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 |                                                        |                                                              |
 |                                                        |                                                              |
 |                                                        |                                                              |
-|                                                        |
+|                                                        |                                                        
 
 
 # Selected Awards
@@ -64,4 +69,3 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 | Trend Micro CTF 2018 - Raimund Genes Cup - The Final |              Tokyo, Japan, Dec. 2018 |
 | 0CTF/TCTF 2019 Quals                                 |              Online, March. 2019             |
 |                                        
-
