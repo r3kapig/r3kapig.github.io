@@ -20,7 +20,7 @@ We actively participate in onlined and onsite CTF competitions. You can browse o
 
 ## Active Memebers
 
-| <img src="images/Atum.jpg" width="100" height="100" />    | **Atum ** (Leader)<br />Peking University<br />- Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
+| <img src="images/Atum.jpg" width="100" height="100" />    | **Atum** (Leader)<br />Peking University<br />- Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="images/bibi.jpg" width="100" height="100" />    | **Bibi** (Leader)                                            |
 | <img src="images/anciety.jpg" width="100" height="100" /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github:[Anciety](https://github.com/Escapingbug) |
