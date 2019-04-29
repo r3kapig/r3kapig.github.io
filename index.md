@@ -31,6 +31,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/nonick.gif" width="80" height="80"  />  | **Nonick**<br />Uneducated<br />- Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer) |
 | <img src="images/nightshadow.jpg" width="80" height="80"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog:[whklhhhh](http://blog.csdn.net/whklhhhh)|
 | <img src="images/f1sh.jpg" width="80" height="80"  />  | **f1sh**<br />Hacked by Swings<br />- Blog:[http://f1sh.site/](http://f1sh.site/)|
+| <img src="images/stypr.jpg" width="80" height="80" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog:[https://harold.kim/](https://harold.kim/)<br />- Github: [stypr](https://github.com/stypr)|
 
 
 ## Historical Active Member
@@ -42,8 +43,9 @@ We actively participate in online and on-site CTF competitions. You can browse o
 |                                                        |                                                              |
 
 
-
 # Selected Awards
+
+| ||
 |                 Game Name                                     |           Time                           |
 | ---------------------------------------------------- | ------------------------: |
 | DEFCON 26 CTF Final, 18th place                | Las Vegas, USA, Aug. 2018 |
