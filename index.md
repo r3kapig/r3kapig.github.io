@@ -20,24 +20,18 @@ We actively participate in online and on-site CTF competitions. You can browse o
 
 ## Active Memebers
 
-|<img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um)|
-|<img src="images/anciety.jpg" width="100" height="100" /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github:[Anciety](https://github.com/Escapingbug)|
-|<img src="images/bibi.jpg" width="100" height="100" />   |**Bibi**            |
-|<img src="images/mxny.jpeg" width="100" height="100" />   | **Mxny**  <br /> Working on JD  <br /> - Blog:[http://mxny.org](http://mxny.org)     |
-|<img src="images/ne0.jpeg" width="100" height="100" />   | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](https://changochen.github.io/about.html)<br />- Github: [Changochen](https://github.com/changochen)           |
-|<img src="images/ricter.jpeg" width="100" height="100" />    |    **Ricter**<br />初❤️を忘れず<br />  - Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ)      |
-|<img src="images/swing.jpeg" width="100" height="100" />    | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](https://bestwing.me/)<br />- Github:[WinMin](https://github.com/WinMin)|
-|<img src="images/nonick.gif" width="100" height="100" /> | **Nonick**<br />Uneducated<br /> - Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer)|
-| :----------------------------------------------------: | :---------------------------------------------------------- |
-|      |            |
-|      |            |
-|      |            |
-|      |            |
-|      |            |
-|      |            |
-|      |            |
+| <img src="images/Atum.jpg" width="100" height="100" />       | **Atum** (Leader)<br />Peking University<br />- Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="images/bibi.jpg" width="100" height="100" />       | **Bibi** (Leader)                                            |
+| <img src="images/anciety.jpg" width="100" height="100" />    | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github:[Anciety](https://github.com/Escapingbug) |
+| <img src="images/mxny.jpeg" width="100" height="100" />      | **Mxny**  <br />Working on JD  <br />- Blog:[http://mxny.org](http://mxny.org) |
+| <img src="images/ne0.jpeg" width="100" height="100" />       | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](https://changochen.github.io/about.html)<br />- Github: [Changochen](https://github.com/changochen) |
+| <img src="images/ricter.jpeg" width="100" height="100" />    | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](https://ricterz.me/) <br />- Github: [RicterZ](https://github.com/RicterZ) |
+| <img src="images/swing.jpeg" width="100" height="100" />     | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](https://bestwing.me/)<br />- Github:[WinMin](https://github.com/WinMin) |
+| <img src="images/nonick.gifswing.jpeg" width="100" height="100" /> | **Nonick**<br />Uneducated<br /> - Blog:[http://127.0.0.1/](http://127.0.0.1/)<br />- Github:[unamer](https://github.com/unamer) |
 
-## Honorary Members
+
+## Historical Active Member
 
 | <img src="images/Atum.jpg" width="100" height="100" /> | **Atum**<br />Peking University<br /> - Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
 | :----------------------------------------------------: | :---------------------------------------------------------- |
@@ -54,7 +48,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 |                                                        |                                                              |
 |                                                        |                                                              |
 |                                                        |                                                              |
-|                                                        |                                                        
+|                                                        |
 
 
 # Selected Awards
