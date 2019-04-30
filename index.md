@@ -2,9 +2,6 @@
 layout: default
 ---
 
-**Welcome to r3kapig Website !!!**
-
-
 
 # r3kapig
 
@@ -12,15 +9,18 @@ r3kapig is a united CTF Team mostly emerges from Eur3kA and FlappyPig since 2018
 
 We actively participate in online and on-site CTF competitions. You can browse our recently participated events and ranks on CTFtime. We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, etc. 
 
+<br>
+
 # Team Members
 
 > Give me a point, I can lift a flappy pig.
 >
 > These are our members.
 
+<br>
 ## Active Members
 
-|   |  |
+| | |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="images/Atum.jpg" class="profile-image"  />     | **Atum** (Leader)<br />Peking University<br />- Blog:[http://atum.li/about/](http://atum.li/about/)<br />- Github:[a7um](https://github.com/a7um) |
 | <img src="images/bibi.jpg" class="profile-image"  />    | **Bibi** (Leader)                                            |
@@ -35,26 +35,29 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/processor.jpg" class="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog:[https://processor.pub/](https://processor.pub/)|
 | <img src="images/zzm.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog:[http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](https://github.com/zhazhami) |
 
+<br>
 ## Historical Active Members
 
-||  |
+| | |
 | :----------------------------------------------------: | :---------------------------------------------------------- |
 | <img src="images/jarvis.png" class="profile-image" /> | **Jarvis**<br />White hat, full stack, embedded engineer, IoT security researcher<br /> - Blog:[https://www.jarviswang.me/](https://www.jarviswang.me/)|
 | <img src="images/mxny.jpeg" class="profile-image"  />   | **Mxny**  <br />Working on JD  <br />- Blog:[http://mxny.org](http://mxny.org) |
 | <img src="images/1phan.jpg" class="profile-image"  />   | **1phan**  <br />B.S in Xidian University & PhD in IUB <br />- Blog:[http://www.1phan.cc](http://www.1phan.cc)<br />- Github: [Gao-Chuan](https://github.com/Gao-Chuan) |
 
+<br>
+
 # Selected Awards
 
-|                 Game Name                                     |           Time                           |
+|                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
-| DEFCON 26 CTF Final, 18th place                | Las Vegas, USA, Aug. 2018 |
-| Nuit du Hack CTF Quals 2018, 3rd place (JD-r3kapig)   |         Online, Oct. 2018 |
-| XCTF RCTF 2018 Online, 4th palce place()             |               Online, Oct. 2018            |
-| Real World CTF 2018 Quals , 3rd                      |     Online, July. 2018                      |
-| XCTF BCTF 2018 , 1st🏆 place                          |         Online, Nov. 2018 |
-| Real World CTF 2018 Finals, 5th place                |           Online, Dec. 2018 |
-| Trend Micro CTF 2018 - Raimund Genes Cup - The Final |              Tokyo, Japan, Dec. 2018 |
-| 0CTF/TCTF 2019 Quals                                 |              Online, March. 2019             |
-| XCTF *CTF 2019 Quals , 1st🏆 place                   |              Online, April. 2019     |
+| DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
+| Nuit du Hack CTF Quals 2018, 3rd place (JD-r3kapig)  |         Online, Oct. 2018 |
+| XCTF RCTF 2018 Online, 4th place                     |         Online, Oct. 2018 |
+| Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
+| XCTF BCTF 2018 , 1st🏆 place                         |         Online, Nov. 2018 |
+| Real World CTF 2018 Finals, 5th place                |         Online, Dec. 2018 |
+| Trend Micro CTF 2018 Finals, 4th place               |   Tokyo, Japan, Dec. 2018 |
+| 0CTF/TCTF 2019 Quals                                 |       Online, March. 2019 |
+| XCTF *CTF 2019 Quals , 1st🏆 place                   |       Online, April. 2019 |
 
 
