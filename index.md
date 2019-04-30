@@ -34,7 +34,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/stypr.jpg" class="profile-image" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog:[https://harold.kim/](https://harold.kim/)<br />- Github: [stypr](https://github.com/stypr)|
 | <img src="images/processor.jpg" class="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog:[https://processor.pub/](https://processor.pub/)|
 | <img src="images/zzm.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog:[http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](https://github.com/zhazhami) |
-| <img src="images/yypl.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Ricter and Chromium1337<br />- Blog:[https://skysec.top/](https://skysec.top/)|
+| <img src="images/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security & Ricter and Chromium1337<br />- Blog:[https://skysec.top/](https://skysec.top/)|
 
 <br>
 ## Historical Active Members
