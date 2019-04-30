@@ -42,9 +42,6 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/jarvis.png" class="profile-image" /> | **Jarvis**<br />White hat, full stack, embedded engineer, IoT security researcher<br /> - Blog:[https://www.jarviswang.me/](https://www.jarviswang.me/)|
 | <img src="images/mxny.jpeg" class="profile-image"  />   | **Mxny**  <br />Working on JD  <br />- Blog:[http://mxny.org](http://mxny.org) |
 | <img src="images/1phan.jpg" class="profile-image"  />   | **1phan**  <br />B.S in Xidian University & PhD in IUB <br />- Blog:[http://www.1phan.cc](http://www.1phan.cc)<br />- Github: [Gao-Chuan](https://github.com/Gao-Chuan) |
-|                                                        |                                                              |
-
-
 
 # Selected Awards
 
