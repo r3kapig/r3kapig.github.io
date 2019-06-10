@@ -53,13 +53,15 @@ We actively participate in online and on-site CTF competitions. You can browse o
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
 | DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
-| Nuit du Hack CTF Quals 2018, 3rd place (JD-r3kapig)  |         Online, Oct. 2018 |
+| Nuit du Hack CTF Quals 2018, 5th place (JD-r3kapig)  |         Online, Oct. 2018 |
 | XCTF RCTF 2018 Online, 4th place                     |         Online, Oct. 2018 |
 | Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
 | XCTF BCTF 2018 , 1st🏆 place                         |         Online, Nov. 2018 |
-| Real World CTF 2018 Finals, 5th place                |         Online, Dec. 2018 |
+| Real World CTF 2018 Finals, 5th place                |Zhengzhou, China Dec. 2018 |
 | Trend Micro CTF 2018 Finals, 4th place               |   Tokyo, Japan, Dec. 2018 |
-| 0CTF/TCTF 2019 Quals                                 |       Online, March. 2019 |
 | XCTF *CTF 2019 Quals , 1st🏆 place                   |       Online, April. 2019 |
+| RCTF 2019 Online, 1st🏆 place                        |         Online, May. 2019 |
+| 0CTF/TCTF 2019 Final , 1st🏆 place                   |Shanghai, China, June. 2019 |
+
 
 
