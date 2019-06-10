@@ -38,6 +38,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog:[https://blog.oroggs.xyz/](https://blog.oroggs.xyz/)|
 | <img src="images/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog:[https://n0b0dycn.me/](https://n0b0dycn.me/)|
 | <img src="images/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github:[https://github.com/yuguorui](https://github.com/yuguorui)|
+| <img src="http://auxy233.github.io/assets/pic/author.png" class="profile-image"  /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog:[http://auxy233.github.io/](http://auxy233.github.io/)|
 | <img src="images/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github:[https://github.com/liangjs](https://github.com/liangjs)|
 | <img src="images/pizza.jpg" class="profile-image">|**Pizza**<br />Reverse|
 <br>
