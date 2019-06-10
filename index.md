@@ -36,7 +36,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/zzm.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog:[http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](https://github.com/zhazhami) |
 | <img src="images/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog:[https://skysec.top/](https://skysec.top/)|
 | <img src="images/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog:[https://blog.oroggs.xyz/](https://blog.oroggs.xyz/)|
-
+| <img src="images/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crytpo, Pwn<br />- Github:[https://github.com/yuguorui](https://github.com/yuguorui)|
 <br>
 ## Historical Active Members
 
