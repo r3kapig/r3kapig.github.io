@@ -71,6 +71,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | *CTF 2019, 1st🏆place                          |       Online, April. 2019 |
 | RCTF 2019, 1st🏆place                         |         Online, May. 2019 |
 | 0CTF/TCTF 2019 Final, 1st🏆place                     |Shanghai, China, June. 2019 |
+| WCTF 2019 Onsite(Master), 3rd place                     |Beijing, China, July. 2019 |
 
 	
 
