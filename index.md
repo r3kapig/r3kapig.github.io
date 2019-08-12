@@ -18,6 +18,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 > These are our members.
 
 <br>
+
 ## Active Members
 
 | | |
@@ -36,8 +37,16 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="images/zzm.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog:[http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](https://github.com/zhazhami) |
 | <img src="images/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog:[https://skysec.top/](https://skysec.top/)|
 | <img src="images/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog:[https://blog.oroggs.xyz/](https://blog.oroggs.xyz/)|
+| <img src="images/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog:[https://n0b0dycn.me/](https://n0b0dycn.me/)|
+| <img src="images/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github:[https://github.com/yuguorui](https://github.com/yuguorui)|
+| <img src="http://auxy233.github.io/assets/pic/author.png" class="profile-image"  /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog:[http://auxy233.github.io/](http://auxy233.github.io/)|
+| <img src="images/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github:[https://github.com/liangjs](https://github.com/liangjs)|
+| <img src="images/pizza.jpg" class="profile-image">|**Pizza**<br />Reverse|
+| <img src="images/rex.jpg" class="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](https://github.com/xiao-xing-yun)|
+| <img src="images/w1tcher.jpg" class="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />
 
 <br>
+
 ## Historical Active Members
 
 | | |
