@@ -3,6 +3,6 @@ logo: /assets/img/logo.png
 description: United Team of Eur3kA and FlappyPig
 show_downloads: true
 google_analytics:
-theme: r3kapig
-remote_theme: r3kapig/r3kapig.github.io
+# theme: r3kapig # use in local, don't commit this file
+remote_theme: r3kapig/r3kapig.github.io # for remote
 exclude: ['_site', 'node_modules', 'script', 'LICENSE', 'README.md']
