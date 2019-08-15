@@ -38,9 +38,9 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="assets/profile/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog: [https://skysec.top/](//skysec.top/)|
 | <img src="assets/profile/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
 | <img src="assets/profile/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
-| <img src="assets/profile/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [https://github.com/yuguorui](//github.com/yuguorui)|
-| <img src="//www.auxy.xyz/assets/pic/author.png" class="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [http://auxy233.github.io/](http://auxy233.github.io/)|
-| <img src="assets/profile/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [https://github.com/liangjs](//github.com/liangjs)|
+| <img src="assets/profile/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
+| <img src="//www.auxy.xyz/assets/pic/author.png" class="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
+| <img src="assets/profile/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image">|**Pizza**<br />Reverse|
 | <img src="assets/profile/rex.jpg" class="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 | <img src="assets/profile/w1tcher.jpg" class="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />
@@ -77,4 +77,6 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
 | Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
 
-<p align="right"> **More** available at [https://ctftime.org/team/58979](//ctftime.org/team/58979)</p>
+<p align="right">
+... more available at <a href="//ctftime.org/team/58979">ctftime</a>.
+</p>
