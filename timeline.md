@@ -1,5 +1,6 @@
 ---
 layout: default
+id: timeline
 title: CTF Timeline
 ---
 
