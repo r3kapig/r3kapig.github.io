@@ -77,4 +77,4 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
 | Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
 
-**More**: [https://ctftime.org/team/58979](//ctftime.org/team/58979)
+<p align="right"> **More** available at [https://ctftime.org/team/58979](//ctftime.org/team/58979)</p>
