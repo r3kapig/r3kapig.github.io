@@ -26,21 +26,21 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="assets/profile/Atum.jpg" class="profile-image"  />     | **Atum** (Leader)<br />Peking University<br />- Blog: [http://atum.li/about/](http://atum.li/about/)<br />- Github: [a7um](//github.com/a7um) |
 | <img src="assets/profile/bibi.jpg" class="profile-image"  />    | **Bibi** (Leader)                                            |
 | <img src="assets/profile/anciety.jpg" class="profile-image"  /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github: [Anciety](//github.com/Escapingbug) |
-| <img src="assets/profile/ne0.jpeg" class="profile-image"  />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [//changochen.github.io/](//changochen.github.io/about.html)<br />- Github: [Changochen](//github.com/changochen) |
+| <img src="assets/profile/ne0.jpeg" class="profile-image"  />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](//changochen.github.io/about.html)<br />- Github: [Changochen](//github.com/changochen) |
 | <img src="assets/profile/ricter.jpeg" class="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [//ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) |
-| <img src="assets/profile/swing.jpeg" class="profile-image"  />  | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [//bestwing.me/](//bestwing.me/)<br />- Github: [WinMin](//github.com/WinMin) |
+| <img src="assets/profile/swing.jpeg" class="profile-image"  />  | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](//bestwing.me/)<br />- Github: [WinMin](//github.com/WinMin) |
 | <img src="assets/profile/nonick.gif" class="profile-image"  />  | **Nonick**<br />Uneducated<br />- Blog: [http://127.0.0.1/](http://127.0.0.1/)<br />- Github: [unamer](//github.com/unamer) |
 | <img src="assets/profile/nightshadow.jpg" class="profile-image"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog: [whklhhhh](http://blog.csdn.net/whklhhhh)|
 | <img src="assets/profile/f1sh.jpg" class="profile-image"  />  | **f1sh**<br />Hacked by Swings<br />- Blog: [http://f1sh.site/](http://f1sh.site/)|
-| <img src="assets/profile/stypr.jpg" class="profile-image" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog: [//harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr)|
-| <img src="assets/profile/processor.jpg" class="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog: [//processor.pub/](//processor.pub/)|
+| <img src="assets/profile/stypr.jpg" class="profile-image" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog: [https://harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr)|
+| <img src="assets/profile/processor.jpg" class="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog: [https://processor.pub/](//processor.pub/)|
 | <img src="assets/profile/zzm.jpg" class="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog: [http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](//github.com/zhazhami) |
-| <img src="assets/profile/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog: [//skysec.top/](//skysec.top/)|
-| <img src="assets/profile/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [//blog.oroggs.xyz/](//blog.oroggs.xyz/)|
-| <img src="assets/profile/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [//n0b0dycn.me/](//n0b0dycn.me/)|
-| <img src="assets/profile/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [//github.com/yuguorui](//github.com/yuguorui)|
+| <img src="assets/profile/yypl.jpg" class="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog: [https://skysec.top/](//skysec.top/)|
+| <img src="assets/profile/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
+| <img src="assets/profile/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
+| <img src="assets/profile/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [https://github.com/yuguorui](//github.com/yuguorui)|
 | <img src="//auxy233.github.io/assets/pic/author.png" class="profile-image"  /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [http://auxy233.github.io/](http://auxy233.github.io/)|
-| <img src="assets/profile/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [//github.com/liangjs](//github.com/liangjs)|
+| <img src="assets/profile/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [https://github.com/liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image">|**Pizza**<br />Reverse|
 | <img src="assets/profile/rex.jpg" class="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 | <img src="assets/profile/w1tcher.jpg" class="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />
@@ -51,7 +51,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 
 | | |
 | :----------------------------------------------------: | :---------------------------------------------------------- |
-| <img src="assets/profile/jarvis.png" class="profile-image" /> | **Jarvis**<br />White hat, full stack, embedded engineer, IoT security researcher<br /> - Blog: [//www.jarviswang.me/](//www.jarviswang.me/)|
+| <img src="assets/profile/jarvis.png" class="profile-image" /> | **Jarvis**<br />White hat, full stack, embedded engineer, IoT security researcher<br /> - Blog: [https://www.jarviswang.me/](//www.jarviswang.me/)|
 | <img src="assets/profile/mxny.jpeg" class="profile-image"  />   | **Mxny**  <br />Working on JD  <br />- Blog: [http://mxny.org](http://mxny.org) |
 | <img src="assets/profile/1phan.jpg" class="profile-image"  />   | **1phan**  <br />B.S in Xidian University & PhD in IUB <br />- Blog: [http://www.1phan.cc](http://www.1phan.cc)<br />- Github: [Gao-Chuan](//github.com/Gao-Chuan) |
 
@@ -77,4 +77,4 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
 | Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
 
-**More**: [//ctftime.org/team/58979](//ctftime.org/team/58979)
+**More**: [https://ctftime.org/team/58979](//ctftime.org/team/58979)
