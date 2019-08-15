@@ -11,7 +11,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -25,7 +25,7 @@
         -->
         <p align=center class="center">
         {% if site.logo %}
-          <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" style="cursor:pointer;" onclick="location.replace('/')" />
+          <img class="logo" src="{{site.logo | relative_url}}" alt="r3kapig" style="cursor:pointer;" onclick="location.replace('/')" />
         {% endif %}
         </p>
         <p align=center>{{ site.description | default: site.github.project_tagline }}</p>
@@ -42,16 +42,8 @@
         {% endif %}
       </header>
       <section>
-
       {{ content }}
-
       </section>
-<!--       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
