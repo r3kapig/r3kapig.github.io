@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name          = 'jekyll-theme-minimal'
-  s.version       = '0.1.1'
+  s.name          = 'r3kapig'
+  s.version       = '1.0.0'
   s.license       = 'CC0-1.0'
-  s.authors       = ['Steve Smith', 'GitHub, Inc.']
-  s.email         = ['opensource+jekyll-theme-minimal@github.com']
-  s.homepage      = 'https://github.com/pages-themes/minimal'
-  s.summary       = 'Minimal is a Jekyll theme for GitHub Pages'
+  s.authors       = ['Steve Smith', 'GitHub, Inc.', 'stypr']
+  s.email         = ['r3kapig@gmail.com']
+  s.homepage      = 'https://github.com/r3kapig/'
+  s.summary       = 'R3kapig Website, Updated version of Minimal Theme'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
