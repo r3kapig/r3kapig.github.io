@@ -13,8 +13,8 @@ bundle update
 
 # Build a new gem archive.
 
-rm -rf jekyll-theme-minimal-*.gem
-gem build -q jekyll-theme-minimal.gemspec
+rm -rf r3kapig-*.gem
+gem build -q r3kapig.gemspec
 
 # Make sure we're on the master branch.
 
@@ -25,7 +25,7 @@ gem build -q jekyll-theme-minimal.gemspec
 
 # Figure out what version we're releasing.
 
-tag=v`ls jekyll-theme-minimal-*.gem | sed 's/^jekyll-theme-minimal-\(.*\)\.gem$/\1/'`
+tag=v`ls r3kapig-*.gem | sed 's/^r3kapig-\(.*\)\.gem$/\1/'`
 
 # Make sure we haven't released this version before.
 
@@ -38,5 +38,5 @@ git fetch -t origin
 
 # Tag it and bag it.
 
-gem push jekyll-theme-minimal-*.gem && git tag "$tag" &&
+gem push r3kapig-*.gem && git tag "$tag" &&
   git push origin master && git push origin "$tag"
