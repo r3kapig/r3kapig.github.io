@@ -39,7 +39,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | <img src="assets/profile/oroggs.jpg" class="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
 | <img src="assets/profile/n0b0dy.png" class="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
 | <img src="assets/profile/yuguorui.jpg" class="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [https://github.com/yuguorui](//github.com/yuguorui)|
-| <img src="//auxy233.github.io/assets/pic/author.png" class="profile-image"  /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [http://auxy233.github.io/](http://auxy233.github.io/)|
+| <img src="//www.auxy.xyz/assets/pic/author.png" class="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [http://auxy233.github.io/](http://auxy233.github.io/)|
 | <img src="assets/profile/liangjs.jpg" class="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [https://github.com/liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image">|**Pizza**<br />Reverse|
 | <img src="assets/profile/rex.jpg" class="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
