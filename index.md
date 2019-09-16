@@ -26,7 +26,7 @@ We actively participate in online and on-site CTF competitions. You can browse o
 | | |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="assets/profile/Atum.jpg" class="profile-image" alt="profile-image"  />     | **Atum** (Leader)<br />Peking University<br />- Blog: [http://atum.li/about/](http://atum.li/about/)<br />- Github: [a7um](//github.com/a7um) |
-| <img src="assets/profile/bibi.jpg" class="profile-image" alt="profile-image"  />    | **Bibi** (Leader)<br />- Blog:[https://beafb1b1.github.io](https://beafb1b1.github.io)<br />- Github: [beafb1b1](//github.com/beafb1b1)                                           |
+| <img src="assets/profile/bibi.jpg" class="profile-image" alt="profile-image"  />    | **Bibi** (Leader)<br />- Github: [beafb1b1](//github.com/beafb1b1)                                           |
 | <img src="assets/profile/anciety.jpg" class="profile-image" alt="profile-image"  /> | **Anciety**<br />Tianjin University<br />- Runtime CTF Cheerleader<br />- Github: [Anciety](//github.com/Escapingbug) |
 | <img src="assets/profile/ne0.jpeg" class="profile-image" alt="profile-image"  />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](//changochen.github.io/about.html)<br />- Github: [Changochen](//github.com/changochen) |
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) |
