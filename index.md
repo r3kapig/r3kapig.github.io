@@ -39,7 +39,6 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/processor.jpg" class="profile-image" alt="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog: [https://processor.pub/](//processor.pub/)|
 | <img src="assets/profile/zzm.jpg" class="profile-image" alt="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog: [http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](//github.com/zhazhami) |
 | <img src="assets/profile/yypl.jpg" class="profile-image" alt="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog: [https://skysec.top/](//skysec.top/)|
-| <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
 | <img src="assets/profile/n0b0dy.png" class="profile-image" alt="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
 | <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
