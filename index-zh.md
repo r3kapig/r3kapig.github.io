@@ -5,6 +5,9 @@ id: index
 
 
 # r3kapig
+
+[中文](./index-zh.md)  [English](./index.md)
+
 &nbsp;&nbsp;&nbsp;&nbsp;r3kapig战队成立于2018年，由老牌CTF战队Flappypig和强劲新锐战队Eur3ke联合组成。战队愿景是成为国际知名CTF战队。
 
 &nbsp;&nbsp;&nbsp;&nbsp;我们的成员擅长领域十分广泛，从自然地理到高性能计算，从电子商务到理论物理，他们来自五湖四海，从千年古都西安到浪漫土耳其，从上海滩到加州公路，从首都北京到日本东京，都有r3kapig成员忙碌的身影。退役队员也将自己的精力和智识投入阿里巴巴、腾讯、京东等等知名公司。
