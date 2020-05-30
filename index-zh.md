@@ -54,7 +54,6 @@ id: index
 | <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 | <img src="assets/profile/w1tcher.jpg" class="profile-image" alt="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />
 | <img src="assets/profile/lowkey.jpg" class="profile-image" alt="profile-image" >| **lowkey**<br />Just to convince the reviewer.<br /> |
-| <img src="assets/profile/mxny.jpeg" class="profile-image" alt="profile-image"  />   | **Mxny**  <br />Working on Binance  <br />- Blog: [http://mxny.org](http://mxny.org) |
 
 <br>
 
