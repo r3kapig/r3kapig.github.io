@@ -9,6 +9,7 @@
 ## CRYPTO
 
 ### 数学基础
+
 * 基础代数
   * 群、环、域
   * 分式域、域扩张
@@ -61,12 +62,15 @@
       * NFS
 
 ### 密码理论
+
 * Shannon Cipher & Computational Cipher
 * 计算复杂性
 * OWF/PRG/PRF/PRP (Goldreich-Levin/Blum-Micali/Luby-Rackoff)
 * Commitment schemes
 * Random Oracle Model
+
 ### 常见编码
+
 * base64/base32
 * hex
 * uuencode
@@ -75,7 +79,9 @@
 * Quoted-printable
 * HTML实体编码
 * Morse Code
+
 ### 古典密码
+
 * 单表替代
   * 凯撒密码
   * 仿射密码
@@ -93,7 +99,9 @@
   * 栅栏密码
   * 键盘密码
   * ADFGX
+
 ### 序列密码
+
 * 常见序列密码算法
     * RC4
     * LFSR
@@ -114,7 +122,9 @@
 * 快速相关攻击
 * 故障注入、侧信道
 * 代数攻击
+
 ### 分组密码
+
 * 常见分组密码算法
   * DES
   * AES (Rijndael)
@@ -134,7 +144,9 @@
 * 差分、积分等分析
 * 线性分析
 * 故障注入、侧信道
+
 ### 哈希函数
+
 * 常见 Hash
   * MD5
   * SHA0/SHA1
@@ -151,7 +163,9 @@
 * MD5 fastcoll/chosen-prefix
   * 差分分析
   * Tunnels
+
 ### 认证与完整性
+
 * MAC
   * ANSI CBC-MAC
   * Universal Hash Function & Carter-Wegman MAC
@@ -165,7 +179,9 @@
   * GCM/OCB/SIV/Poly1305 及相关攻击（GCM nonce reuse、OCB2）
 * Authenticated Cipher
   * AEGIS
+
 ### 公钥密码
+
 * 常见公钥加密算法
   * RSA
   * ElGamal
@@ -187,7 +203,9 @@
   * (EC)MQV
   * SIKE
 * 故障注入、侧信道
+
 ### 签名
+
 * 常见签名算法
   * Schnorr
   * ECDSA/EdDSA
@@ -199,7 +217,9 @@
   * partial nonce exposure
   * related nonce
 * 故障注入、侧信道
+
 ### 其他公钥密码学相关算法
+
 * (Ring)LWE
 * NTRU
 * GGH
@@ -207,7 +227,9 @@
 * Knapsack
 
 ## MISC<br><br>
+
 ### 区块链
+
 * 以太坊智能合约
   * Interger Overflow
   * Re-Entrancy
