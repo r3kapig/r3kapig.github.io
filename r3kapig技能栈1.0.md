@@ -55,11 +55,11 @@
     * Kangroo
     * Pollard ρ
     * 特殊 ECC
-        * anomalous curve
-        * MOV attack
+      * anomalous curve
+      * MOV attack
     * 有限域
-        * Index Calculus
-        * NFS
+      * Index Calculus
+      * NFS
 ### 密码理论
 * Shannon Cipher & Computational Cipher
 * 计算复杂性
@@ -206,7 +206,7 @@
 * CKKS
 * Knapsack
 
-## MISC<br>
+## MISC<br><br>
 ### 区块链
 * 以太坊智能合约
   * Interger Overflow
@@ -334,7 +334,7 @@
   * 已保存的账号
   * 浏览记录
   * IndexedDB 取证
-## PWN<br>
+## PWN<br><br>
 ### 传统 pwn
 * 栈溢出
   * 基础ROP
@@ -473,7 +473,7 @@
 * Cgi pwn
 * php pwn
 
-## WEB<br>
+## WEB<br><br>
 ### SQL 注入
 * 联合查询
 * 时间盲注
@@ -505,7 +505,7 @@
   * 原型链污染
 * Java
   * 反序列化
-## REVERSE<br>
+## REVERSE<br><br>
 ### 基础知识
 * 汇编与反汇编
   * x86
