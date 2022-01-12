@@ -73,6 +73,23 @@ id: index
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| SCTF 2021 8th place |Online,Dec.2021|
+| SECCON CTF 2021 8th place |Online,Dec.2021|
+| N1CTF 2021 2nd place |Online,Nov.2021|
+| L3HCTF 2021 4th place |Online,Nov.2021|
+| Hack.lu CTF 2021 5th place |Online,Oct.2021|
+| 0CTF/TCTF 2021 Finals 2nd place |Online,Sep.2021|
+| WMCTF 2021 3rd place |Online,Aug.2021|
+| 0CTF/TCTF 2021 Quals 4th place |Online,July.2021|
+| DEF CON CTF Qualifier 2021 5th place |Online,May.2021|
+| Real World CTF 3rd 7th place |Online,Jan.2021|
+| HackTM CTF Finals 2020 3th place |Online,Dec.2020|
+| N1CTF 2020 2nd place |Online,Oct.2020|
+| 0CTF/TCTF 2020 Finals 4th place |Online,Sep.2020|
+| CyBRICS CTF 2020 4th place |Online,July.2020|
+| 0CTF/TCTF 2020 Quals 4th place |Online,June.2020|
+| HackTM CTF Quals 2020 4th place |Online,Feb.2020|
+| N1CTF 2019 5th place|Online,Sep.2019|
 | DEFCON 27 CTF Final, 2019 10th place                 |Las Vegas, NV, USA, Aug. 2019|
 | WCTF 2019 Onsite(Master), 3rd place	               | Beijing, China, July. 2019 |
 | 0CTF/TCTF 2019 Final, 1st🏆place                     |Shanghai, China, June. 2019 |
