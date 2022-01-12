@@ -1,8 +1,15 @@
 # r3kapig技能栈1.0
 
-[toc]
+* [r3kapig技能栈1.0](#r3kapig技能栈10)
+   * [CRYPTO](#crypto)
+   * [MISC](#misc)
+   * [PWN](#pwn)
+   * [WEB](#web)
+   * [REVERSE](#reverse)
+* [Author](#author)
 
 ## CRYPTO
+
 * 数学基础
     * 基础代数
         * 群、环、域
@@ -199,7 +206,9 @@
     * GGH
     * CKKS
     * Knapsack
+
 ## MISC
+
 * 区块链
     * 以太坊智能合约
         * Interger Overflow
@@ -327,7 +336,9 @@
         * 已保存的账号
         * 浏览记录
         * IndexedDB 取证
+        
 ## PWN
+
 * 传统 pwn
     * 栈溢出
         * 基础ROP
@@ -466,7 +477,9 @@
 * Web Pwn
     * Cgi pwn
     * php pwn
+
 ## WEB
+
 * SQL 注入
     * 联合查询
     * 时间盲注
@@ -498,7 +511,9 @@
         * 原型链污染
     * Java
         * 反序列化
+        
 ## REVERSE
+
 * 基础知识
     * 汇编与反汇编
         * x86
@@ -588,4 +603,6 @@
             * lzma
             * Huffman
 
-* Author: bibi,Lime,01dwang,Ne0,crazyman,Anciety,pikachu,7rph,swing,th31nk,pizza,lowkey,soyasauceking
+#Author: 
+
+*bibi,Lime,01dwang,Ne0,crazyman,Anciety,pikachu,7rph,swing,th31nk,pizza,lowkey,soyasauceking
