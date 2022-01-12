@@ -68,7 +68,7 @@ If necessary, this is our official email: root@r3kapig.com
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
-| SCTF 2021 8th place |Online,Dec.2021|
+| SCTF 2021 7th place |Online,Dec.2021|
 | SECCON CTF 2021 8th place |Online,Dec.2021|
 | N1CTF 2021 2nd place |Online,Nov.2021|
 | L3HCTF 2021 4th place |Online,Nov.2021|
