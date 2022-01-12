@@ -1,14 +1,13 @@
 # r3kapig技能栈1.0
 
-* [r3kapig技能栈1.0](#r3kapig技能栈10)
-   * [CRYPTO](#crypto)
-   * [MISC](#misc)
-   * [PWN](#pwn)
-   * [WEB](#web)
-   * [REVERSE](#reverse)
-* [Author](#author)
+* [CRYPTO](#crypto)
+* [MISC](#misc)
+* [PWN](#pwn)
+* [WEB](#web)
+* [REVERSE](#reverse)
 
-## CRYPTO<br><br>
+## CRYPTO
+
 ### 数学基础
 * 基础代数
   * 群、环、域
@@ -60,6 +59,7 @@
     * 有限域
       * Index Calculus
       * NFS
+
 ### 密码理论
 * Shannon Cipher & Computational Cipher
 * 计算复杂性
