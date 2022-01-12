@@ -595,5 +595,5 @@
   - lzma
   - Huffman
 
-## Author
+# Author
 bibi,Lime,01dwang,Ne0,crazyman,Anciety,pikachu,7rph,swing,th31nk,pizza,lowkey,soyasauceking
