@@ -8,59 +8,58 @@
    * [REVERSE](#reverse)
    * [Author](#author)
 
-## CRYPTO
-
+## CRYPTO<br>
 ### 数学基础
 - 基础代数
-    - 群、环、域
-    - 分式域、域扩张
-    - 初等数论
-    - 整环、代数数域
+  - 群、环、域
+  - 分式域、域扩张
+  - 初等数论
+  - 整环、代数数域
 - 计算数论
-    - （扩展）Euclid 算法
-    - 中国剩余定理
+  - （扩展）Euclid 算法
+  - 中国剩余定理
+  - 连分数
+  - Legendre-Jacobi-Kronecker Symbol
+  - 模 p 平方根（Tonelli-Shanks）
+  - 模 p 多项式方程（组）求解
+    - Hensel 引理
+    - Resultant
+    - Gröbner basis
+  - 线性代数 & 格
+    - 高斯消元
+    - Hermite & Smith Normal Forms
+    - LLL & BKZ
+    - CVP/SVP/SIS
+    - Babai nearest plane
+  - 椭圆曲线
+    - 群结构（加法公式，点的数量）
+    - 不同曲线形式及相互转换
+    - 除子
+    - Complex Multiplication
+    - Weil & Tate pairing
+  - 整数分解
+    - p-1
+    - p+1
     - 连分数
-    - Legendre-Jacobi-Kronecker Symbol
-    - 模 p 平方根（Tonelli-Shanks）
-    - 模 p 多项式方程（组）求解
-        - Hensel 引理
-        - Resultant
-        - Gröbner basis
-    - 线性代数 & 格
-        - 高斯消元
-        - Hermite & Smith Normal Forms
-        - LLL & BKZ
-        - CVP/SVP/SIS
-        - Babai nearest plane
-    - 椭圆曲线
-        - 群结构（加法公式，点的数量）
-        - 不同曲线形式及相互转换
-        - 除子
-        - Complex Multiplication
-        - Weil & Tate pairing
-    - 整数分解
-        - p-1
-        - p+1
-        - 连分数
-        - ECM
-        - (MP)QS
+    - ECM
+    - (MP)QS
+    - NFS
+  - 素性检验
+    - Fermat
+    - Lucas
+    - Miller Rabin
+    - 分圆环
+  - 离散对数
+    - Pohlig–Hellman
+    - BSGS
+    - Kangroo
+    - Pollard ρ
+    - 特殊 ECC
+        - anomalous curve
+        - MOV attack
+    - 有限域
+        - Index Calculus
         - NFS
-    - 素性检验
-        - Fermat
-        - Lucas
-        - Miller Rabin
-        - 分圆环
-    - 离散对数
-        - Pohlig–Hellman
-        - BSGS
-        - Kangroo
-        - Pollard ρ
-        - 特殊 ECC
-            - anomalous curve
-            - MOV attack
-        - 有限域
-            - Index Calculus
-            - NFS
 ### 密码理论
 - Shannon Cipher & Computational Cipher
 - 计算复杂性
@@ -207,7 +206,7 @@
 - CKKS
 - Knapsack
 
-## MISC
+## MISC<br>
 ### 区块链
 - 以太坊智能合约
   - Interger Overflow
@@ -335,8 +334,7 @@
   - 已保存的账号
   - 浏览记录
   - IndexedDB 取证
-## PWN
-
+## PWN<br>
 ### 传统 pwn
 - 栈溢出
   - 基础ROP
@@ -475,7 +473,7 @@
 - Cgi pwn
 - php pwn
 
-## WEB
+## WEB<br>
 ### SQL 注入
 - 联合查询
 - 时间盲注
@@ -507,8 +505,7 @@
   - 原型链污染
 - Java
   - 反序列化
-## REVERSE
-
+## REVERSE<br>
 ### 基础知识
 - 汇编与反汇编
   - x86
