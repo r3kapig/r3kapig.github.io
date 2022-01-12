@@ -10,7 +10,7 @@
 
 ## CRYPTO
 
-- 数学基础
+### 数学基础
     - 基础代数
         - 群、环、域
         - 分式域、域扩张
@@ -61,13 +61,13 @@
             - 有限域
                 - Index Calculus
                 - NFS
-- 密码理论
+### 密码理论
     - Shannon Cipher & Computational Cipher
     - 计算复杂性
     - OWF/PRG/PRF/PRP (Goldreich-Levin/Blum-Micali/Luby-Rackoff)
     - Commitment schemes
     - Random Oracle Model
-- 常见编码
+### 常见编码
     - base64/base32
     - hex
     - uuencode
@@ -76,7 +76,7 @@
     - Quoted-printable
     - HTML实体编码
     - Morse Code
-- 古典密码
+### 古典密码
     - 单表替代
         - 凯撒密码
         - 仿射密码
@@ -94,7 +94,7 @@
         - 栅栏密码
         - 键盘密码
         - ADFGX
-- 序列密码
+### 序列密码
     - 常见序列密码算法
         - RC4
         - LFSR
@@ -115,7 +115,7 @@
     - 快速相关攻击
     - 故障注入、侧信道
     - 代数攻击
-- 分组密码
+### 分组密码
     - 常见分组密码算法
         - DES
         - AES (Rijndael)
@@ -135,7 +135,7 @@
     - 差分、积分等分析
     - 线性分析
     - 故障注入、侧信道
-- 哈希函数
+### 哈希函数
     - 常见 Hash
         - MD5
         - SHA0/SHA1
@@ -152,7 +152,7 @@
     - MD5 fastcoll/chosen-prefix
         - 差分分析
         - Tunnels
-- 认证与完整性
+### 认证与完整性
     - MAC
         - ANSI CBC-MAC
         - Universal Hash Function & Carter-Wegman MAC
@@ -166,7 +166,7 @@
         - GCM/OCB/SIV/Poly1305 及相关攻击（GCM nonce reuse、OCB2）
     - Authenticated Cipher
         - AEGIS
-- 公钥密码
+### 公钥密码
     - 常见公钥加密算法
         - RSA
         - ElGamal
@@ -188,7 +188,7 @@
         - (EC)MQV
         - SIKE
     - 故障注入、侧信道
-- 签名
+### 签名
     - 常见签名算法
         - Schnorr
         - ECDSA/EdDSA
@@ -200,7 +200,7 @@
         - partial nonce exposure
         - related nonce
     - 故障注入、侧信道
-- 其他公钥密码学相关算法
+### 其他公钥密码学相关算法
     - (Ring)LWE
     - NTRU
     - GGH
@@ -208,7 +208,7 @@
     - Knapsack
 ## MISC
 
-- 区块链
+### 区块链
     - 以太坊智能合约
         - Interger Overflow
         - Re-Entrancy
@@ -230,7 +230,7 @@
             - Vector76 attack
         - Block withholding attack
         - Selfish-Mining attack
-- 信息隐写
+### 信息隐写
     - 文本隐写
         - wbStego对txt、asc、pdf
     - 压缩包
@@ -301,7 +301,7 @@
         - pyc
         - base64 stego
         - unicode 0宽度
-- 流量分析
+### 流量分析
     - usb流量
         - 键盘流量
         - 鼠标流量
@@ -310,7 +310,7 @@
     - 蓝牙流量
     - wifi流量
     - 恶意攻击流量
-- 取证
+### 取证
     - 磁盘取证
     - 内存取证
         - profile 制作
@@ -337,7 +337,7 @@
         - IndexedDB 取证
 ## PWN
 
-- 传统 pwn
+### 传统 pwn
     - 栈溢出
         - 基础ROP
             - ret2text
@@ -391,7 +391,7 @@
             - house-of-botcake
     - musl libc 堆利用
     - IO_File攻击
-- 内核利用
+### 内核利用
     - 前置知识
         - 操作系统
         - 计算机组成原理
@@ -424,7 +424,7 @@
     - Windows内核利用
     - OSX内核利用
     - android内核利用
-- 浏览器利用
+### 浏览器利用
     - JS引擎internal
         - mujs
         - qjs
@@ -448,7 +448,7 @@
             - LPC port
             - RPC message
         - Firefox Sandbox
-- 虚拟机逃逸
+### 虚拟机逃逸
     - Libc虚拟机
     - Unicorn虚拟机
     - Qemu
@@ -456,7 +456,7 @@
     - VBox
     - HyperV
     - Parallel
-- IoT hacking
+### IoT hacking
     - 嵌入式指令集
         - ARM
         - MIPS
@@ -467,37 +467,37 @@
         - Zigbee
         - WIFI
     - 固件分析知识
-- 沙盒逃逸
+### 沙盒逃逸
     - Seccomp
     - Ptrace
     - chroot
     - docker
-- Web Pwn
+### Web Pwn
     - Cgi pwn
     - php pwn
 
 ## WEB
 
-- SQL 注入
+### SQL 注入
     - 联合查询
     - 时间盲注
     - 报错注入
     - OOB
-- XSS
+### XSS
     - 反射 XSS
     - 存储 XSS
     - DOM-XSS
     - CSP Bypass
     - RPO
-- SSRF
+### SSRF
     - 正则绕过
     - 302 Redirect
     - DNS Rebinding
     - Gopher
     - FTP
-- RCE
-- XXE
-- 代码审计
+### RCE
+### XXE
+### 代码审计
     - PHP
         - LFI
         - 反序列化
@@ -511,23 +511,23 @@
         - 反序列化
 ## REVERSE
 
-- 基础知识
-- 汇编与反汇编
-  - x86
-  - arm
-  - mips
-- 可执行文件格式
-  - PE
-    - NT头
-    - 段表
-    - 导入表
-    - 导出表
-  - ELF
-    - 段表
-    - 符号表
-  - APK
-    - 打包与签名
-- 调试原理
+### 基础知识
+  - 汇编与反汇编
+    - x86
+    - arm
+    - mips
+  - 可执行文件格式
+    - PE
+      - NT头
+      - 段表
+      - 导入表
+      - 导出表
+    - ELF
+      - 段表
+      - 符号表
+    - APK
+      - 打包与签名
+### 调试原理
   - 断点原理
     - 软件断点
     - 硬件断点
@@ -536,21 +536,21 @@
   - 调试接口
   - 反调试检测
   - 调试符号
-- 编译原理
+### 编译原理
   - 语法树
   - 中间代码生成
   - 代码优化
   - 机器码生成
   - 控制流程图
   - 数据结构与虚函数表
-- 操作系统
+### 操作系统
   - 程序加载
   - 进程线程
   - 系统调用
   - 栈与堆
   - CPU虚拟化
   - 保护模式
-- 工具使用
+### 工具使用
 - 静态分析
   - 工具
     - ida
@@ -572,33 +572,33 @@
   - miasm
   - triton
   - pin
-- 语言特征
-- cpp
-- golang
-- wasm
-- dot net
-- 常见框架
-- socket
-- 多线程
-- 调试器
-- MFC
-- 内核驱动
-- 混淆对抗
-- 垃圾指令
-- 控制流平坦化
-- 代码虚拟化
-- 常见算法
-- 编码算法
-  - base64
-  - hex
-  - urlencode
-- 加密算法
-  - AES
-  - RSA
-  - DES
-- 压缩算法
-  - lzma
-  - Huffman
+### 语言特征
+  - cpp
+  - golang
+  - wasm
+  - dot net
+### 常见框架
+  - socket
+  - 多线程
+  - 调试器
+  - MFC
+  - 内核驱动
+### 混淆对抗
+  - 垃圾指令
+  - 控制流平坦化
+  - 代码虚拟化
+### 常见算法
+  - 编码算法
+    - base64
+    - hex
+    - urlencode
+  - 加密算法
+    - AES
+    - RSA
+    - DES
+  - 压缩算法
+    - lzma
+    - Huffman
 
 ## Author
 bibi,Lime,01dwang,Ne0,crazyman,Anciety,pikachu,7rph,swing,th31nk,pizza,lowkey,soyasauceking
