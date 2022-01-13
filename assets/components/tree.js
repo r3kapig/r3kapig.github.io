@@ -1,4 +1,5 @@
 import G6 from '@antv/g6';
+import { nanoid } from 'nanoid';
 import data from './data.json';
 
 const minWidth = 60;
@@ -285,7 +286,7 @@ const graph = new G6.TreeGraph({
 });
 
 G6.Util.traverseTree(data, function (item) {
-  item.id = item.label;
+  item.id = `${item.label}_${nanoid()}`;
 });
 graph.data(data);
 graph.render();
