@@ -36,9 +36,7 @@ jobs:
           bundle install --jobs 4 --retry 3
       - run: npm run build
 
-      - name: "Deploy to gh-pages 🚀"
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Build and deploy
+        uses: helaili/jekyll-action@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: _site
+          token: ${{ secrets.GITHUB_TOKEN }}
