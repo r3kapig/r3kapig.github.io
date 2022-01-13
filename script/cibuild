@@ -2,6 +2,7 @@
 
 set -e
 
+npm i && npm run build
 bundle exec jekyll build
 bundle exec htmlproofer ./_site --check-html --check-sri
 bundle exec rubocop -D
