@@ -216,7 +216,13 @@ G6.registerEdge('smooth', {
   },
 });
 
-[CRYPTO, MISC, PWN, WEB, REVERSE].forEach((data, idx) => {
+[
+  {
+    label: "r3kapig技能栈1.0",
+    depth: 3,
+    children: [CRYPTO, MISC, PWN, WEB, REVERSE],
+  }
+].forEach((data, idx) => {
   const elementId = `container_tree_${idx}`;
   const container = document.getElementById(elementId);
   const width = container.scrollWidth;
