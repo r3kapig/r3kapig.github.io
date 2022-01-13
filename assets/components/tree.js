@@ -1,6 +1,10 @@
 import G6 from '@antv/g6';
 import { nanoid } from 'nanoid';
-import data from './data.json';
+import CRYPTO from './data/CRYPTO.json';
+import MISC from './data/MISC.json';
+import PWN from './data/PWN.json';
+import REVERSE from './data/REVERSE.json';
+import WEB from './data/WEB.json';
 
 const minWidth = 60;
 
@@ -212,89 +216,91 @@ G6.registerEdge('smooth', {
   },
 });
 
-const idx = 'container_tree';
-const container = document.getElementById(idx);
-const width = container.scrollWidth;
-const height = container.scrollHeight || 500;
+[CRYPTO, MISC, PWN, WEB, REVERSE].forEach((data, idx) => {
+  const elementId = `container_tree_${idx}`;
+  const container = document.getElementById(elementId);
+  const width = container.scrollWidth;
+  const height = container.scrollHeight || 500;
 
-const tooltip = new G6.Tooltip({
-  offsetX: 10,
-  offsetY: 20,
-  getContent(e) {
-    const outDiv = document.createElement('div');
-    outDiv.style.width = 'auto';
-    outDiv.style.height = 'auto';
-    outDiv.style.minHeight = '20px';
-    outDiv.innerHTML = `
-      <p> ${e.item.getModel().tooltip || e.item.getModel().label}</p>`
-    return outDiv
-  },
-  itemTypes: ['node']
-});
+  const tooltip = new G6.Tooltip({
+    offsetX: 10,
+    offsetY: 20,
+    getContent(e) {
+      const outDiv = document.createElement('div');
+      outDiv.style.width = 'auto';
+      outDiv.style.height = 'auto';
+      outDiv.style.minHeight = '20px';
+      outDiv.innerHTML = `
+        <p> ${e.item.getModel().tooltip || e.item.getModel().label}</p>`
+      return outDiv
+    },
+    itemTypes: ['node']
+  });
 
-const graph = new G6.TreeGraph({
-  container: idx,
-  width,
-  height,
-  modes: {
-    default: [
-      {
-        type: 'collapse-expand',
-        trigger: 'click',
+  const graph = new G6.TreeGraph({
+    container: elementId,
+    width,
+    height,
+    modes: {
+      default: [
+        {
+          type: 'collapse-expand',
+          trigger: 'click',
+        },
+        'drag-canvas',
+        'zoom-canvas',
+      ],
+    },
+    plugins: [tooltip],
+    defaultNode: {
+      type: 'treeNode',
+      anchorPoints: [
+        [0, 0.5],
+        [1, 0.5],
+      ],
+    },
+    defaultEdge: {
+      type: "cubic-horizontal",
+    },
+    layout: {
+      type: 'compactBox',
+      direction: 'LR',
+      getId: function getId(d) {
+        return d.id;
       },
-      'drag-canvas',
-      'zoom-canvas',
-    ],
-  },
-  plugins: [tooltip],
-  defaultNode: {
-    type: 'treeNode',
-    anchorPoints: [
-      [0, 0.5],
-      [1, 0.5],
-    ],
-  },
-  defaultEdge: {
-    type: "cubic-horizontal",
-  },
-  layout: {
-    type: 'compactBox',
-    direction: 'LR',
-    getId: function getId(d) {
-      return d.id;
+      getHeight: function getHeight() {
+        return 16;
+      },
+      getWidth: function getWidth(d) {
+        const labelWidth = G6.Util.getTextSize(d.label, BaseConfig.nameFontSize)[0];
+        const width =
+          BaseConfig.itemPadding +
+          BaseConfig.nameMarginLeft +
+          labelWidth +
+          BaseConfig.rootPadding +
+          BaseConfig.childCountWidth;
+        return width;
+      },
+      getVGap: function getVGap() {
+        return 15;
+      },
+      getHGap: function getHGap() {
+        return 30;
+      },
     },
-    getHeight: function getHeight() {
-      return 16;
-    },
-    getWidth: function getWidth(d) {
-      const labelWidth = G6.Util.getTextSize(d.label, BaseConfig.nameFontSize)[0];
-      const width =
-        BaseConfig.itemPadding +
-        BaseConfig.nameMarginLeft +
-        labelWidth +
-        BaseConfig.rootPadding +
-        BaseConfig.childCountWidth;
-      return width;
-    },
-    getVGap: function getVGap() {
-      return 15;
-    },
-    getHGap: function getHGap() {
-      return 30;
-    },
-  },
-});
+  });
 
-G6.Util.traverseTree(data, function (item) {
-  item.id = `${item.label}_${nanoid()}`;
-});
-graph.data(data);
-graph.render();
-graph.fitView();
+  G6.Util.traverseTree(data, function (item) {
+    item.id = `${item.label}_${nanoid()}`;
+  });
+  graph.data(data);
+  graph.render();
+  graph.fitView();
 
-if (typeof window !== 'undefined')
-  window.onresize = () => {
-    if (!graph || graph.get('destroyed')) return;
-    if (!container || !container.scrollWidth || !container.scrollHeight) return;
-    graph.changeSize(container.scrollWidth, container.scrollHeight);
-  };
+  if (typeof window !== 'undefined')
+    window.onresize = () => {
+      if (!graph || graph.get('destroyed')) return;
+      if (!container || !container.scrollWidth || !container.scrollHeight) return;
+      graph.changeSize(container.scrollWidth, container.scrollHeight);
+    };
+});

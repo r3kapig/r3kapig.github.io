@@ -1,0 +1,120 @@
+{
+  "label": "WEB",
+  "children": [
+    {
+      "label": "SQL 注入",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "联合查询"
+        },
+        {
+          "label": "时间盲注"
+        },
+        {
+          "label": "报错注入"
+        },
+        {
+          "label": "OOB"
+        }
+      ]
+    },
+    {
+      "label": "XSS",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "反射 XSS"
+        },
+        {
+          "label": "存储 XSS"
+        },
+        {
+          "label": "DOM-XSS"
+        },
+        {
+          "label": "CSP Bypass"
+        },
+        {
+          "label": "RPO"
+        }
+      ]
+    },
+    {
+      "label": "SSRF",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "正则绕过"
+        },
+        {
+          "label": "302 Redirect"
+        },
+        {
+          "label": "DNS Rebinding"
+        },
+        {
+          "label": "Gopher"
+        },
+        {
+          "label": "FTP"
+        }
+      ]
+    },
+    {
+      "label": "RCE",
+      "collapsed": true
+    },
+    {
+      "label": "XXE",
+      "collapsed": true
+    },
+    {
+      "label": "代码审计",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "PHP",
+          "children": [
+            {
+              "label": "LFI"
+            },
+            {
+              "label": "反序列化"
+            },
+            {
+              "label": "文件上传"
+            }
+          ]
+        },
+        {
+          "label": "Python",
+          "children": [
+            {
+              "label": "SSTI"
+            },
+            {
+              "label": "反序列化"
+            }
+          ]
+        },
+        {
+          "label": "Nodejs",
+          "children": [
+            {
+              "label": "原型链污染"
+            }
+          ]
+        },
+        {
+          "label": "Java",
+          "children": [
+            {
+              "label": "反序列化"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

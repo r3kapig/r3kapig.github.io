@@ -1,0 +1,693 @@
+{
+  "label": "CRYPTO",
+  "description": null,
+  "children": [
+    {
+      "label": "数学基础",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "基础代数",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "群、环、域"
+            },
+            {
+              "label": "分式域、域扩张"
+            },
+            {
+              "label": "初等数论"
+            },
+            {
+              "label": "整环、代数数域"
+            }
+          ]
+        },
+        {
+          "label": "计算数论",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "（扩展）Euclid 算法"
+            },
+            {
+              "label": "中国剩余定理"
+            },
+            {
+              "label": "连分数"
+            },
+            {
+              "label": "Legendre-Jacobi-Kronecker Symbol"
+            },
+            {
+              "label": "模 p 平方根（Tonelli-Shanks）"
+            },
+            {
+              "label": "模 p 多项式方程（组）求解",
+              "children": [
+                {
+                  "label": "Hensel 引理"
+                },
+                {
+                  "label": "Resultant"
+                },
+                {
+                  "label": "Gröbner basis"
+                }
+              ]
+            },
+            {
+              "label": "线性代数 & 格",
+              "children": [
+                {
+                  "label": "高斯消元"
+                },
+                {
+                  "label": "Hermite & Smith Normal Forms"
+                },
+                {
+                  "label": "LLL & BKZ"
+                },
+                {
+                  "label": "CVP/SVP/SIS"
+                },
+                {
+                  "label": "Babai nearest plane"
+                }
+              ]
+            },
+            {
+              "label": "椭圆曲线",
+              "children": [
+                {
+                  "label": "群结构（加法公式，点的数量）"
+                },
+                {
+                  "label": "不同曲线形式及相互转换"
+                },
+                {
+                  "label": "除子"
+                },
+                {
+                  "label": "Complex Multiplication"
+                },
+                {
+                  "label": "Weil & Tate pairing"
+                }
+              ]
+            },
+            {
+              "label": "整数分解",
+              "children": [
+                {
+                  "label": "p-1"
+                },
+                {
+                  "label": "p+1"
+                },
+                {
+                  "label": "连分数"
+                },
+                {
+                  "label": "ECM"
+                },
+                {
+                  "label": "(MP)QS"
+                },
+                {
+                  "label": "NFS"
+                }
+              ]
+            },
+            {
+              "label": "素性检验",
+              "children": [
+                {
+                  "label": "Fermat"
+                },
+                {
+                  "label": "Lucas"
+                },
+                {
+                  "label": "Miller Rabin"
+                },
+                {
+                  "label": "分圆环"
+                }
+              ]
+            },
+            {
+              "label": "离散对数",
+              "children": [
+                {
+                  "label": "Pohlig–Hellman"
+                },
+                {
+                  "label": "BSGS"
+                },
+                {
+                  "label": "Kangroo"
+                },
+                {
+                  "label": "Pollard ρ"
+                },
+                {
+                  "label": "特殊 ECC",
+                  "children": [
+                    {
+                      "label": "anomalous curve"
+                    },
+                    {
+                      "label": "MOV attack"
+                    }
+                  ]
+                },
+                {
+                  "label": "有限域",
+                  "children": [
+                    {
+                      "label": "Index Calculus"
+                    },
+                    {
+                      "label": "NFS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "密码理论",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "Shannon Cipher & Computational Cipher"
+        },
+        {
+          "label": "计算复杂性"
+        },
+        {
+          "label": "OWF/PRG/PRF/PRP (Goldreich-Levin/Blum-Micali/Luby-Rackoff)"
+        },
+        {
+          "label": "Commitment schemes"
+        },
+        {
+          "label": "Random Oracle Model"
+        }
+      ]
+    },
+    {
+      "label": "常见编码",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "base64/base32"
+        },
+        {
+          "label": "hex"
+        },
+        {
+          "label": "uuencode"
+        },
+        {
+          "label": "urlencode"
+        },
+        {
+          "label": "shellcode"
+        },
+        {
+          "label": "Quoted-printable"
+        },
+        {
+          "label": "HTML实体编码"
+        },
+        {
+          "label": "Morse Code"
+        }
+      ]
+    },
+    {
+      "label": "古典密码",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "单表替代",
+          "children": [
+            {
+              "label": "凯撒密码"
+            },
+            {
+              "label": "仿射密码"
+            },
+            {
+              "label": "移位密码"
+            },
+            {
+              "label": "简单替换密码"
+            }
+          ]
+        },
+        {
+          "label": "多表替代",
+          "children": [
+            {
+              "label": "维吉尼亚密码"
+            },
+            {
+              "label": "希尔密码"
+            },
+            {
+              "label": "一次一密"
+            },
+            {
+              "label": "Playfair"
+            },
+            {
+              "label": "卡西斯基试验"
+            },
+            {
+              "label": "弗里德曼试验"
+            }
+          ]
+        },
+        {
+          "label": "其他",
+          "children": [
+            {
+              "label": "培根密码"
+            },
+            {
+              "label": "栅栏密码"
+            },
+            {
+              "label": "键盘密码"
+            },
+            {
+              "label": "ADFGX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "序列密码",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "常见序列密码算法",
+          "children": [
+            {
+              "label": "RC4"
+            },
+            {
+              "label": "LFSR"
+            },
+            {
+              "label": "Salsa/Chacha"
+            },
+            {
+              "label": "Rabbit"
+            },
+            {
+              "label": "祖冲之（ZUC）"
+            }
+          ]
+        },
+        {
+          "label": "(CS)PRNG",
+          "children": [
+            {
+              "label": "LCG"
+            },
+            {
+              "label": "PCG"
+            },
+            {
+              "label": "MT19937"
+            },
+            {
+              "label": "xorshift"
+            },
+            {
+              "label": "HASH-DRBG/HMAC-DRBG/CTR-DRBG"
+            },
+            {
+              "label": "Duel-EC-DRBG(Backdoored)"
+            }
+          ]
+        },
+        {
+          "label": "相关性攻击"
+        },
+        {
+          "label": "Berlekamp-Massey算法"
+        },
+        {
+          "label": "k错线性逼近序列"
+        },
+        {
+          "label": "差分、立方攻击等"
+        },
+        {
+          "label": "快速相关攻击"
+        },
+        {
+          "label": "故障注入、侧信道"
+        },
+        {
+          "label": "代数攻击"
+        }
+      ]
+    },
+    {
+      "label": "分组密码",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "常见分组密码算法",
+          "children": [
+            {
+              "label": "DES"
+            },
+            {
+              "label": "AES (Rijndael)"
+            },
+            {
+              "label": "Twofish/Blowfish"
+            },
+            {
+              "label": "Serpent"
+            },
+            {
+              "label": "GOST"
+            },
+            {
+              "label": "SM4"
+            }
+          ]
+        },
+        {
+          "label": "Block cipher 结构",
+          "children": [
+            {
+              "label": "Feistel"
+            },
+            {
+              "label": "SPN"
+            },
+            {
+              "label": "Lai Massey"
+            }
+          ]
+        },
+        {
+          "label": "分组模式",
+          "children": [
+            {
+              "label": "(Adaptive) CPA/CCA 等攻击模型"
+            },
+            {
+              "label": "Padding Oracle"
+            },
+            {
+              "label": "Compression Oracle"
+            },
+            {
+              "label": "BEAST attack"
+            }
+          ]
+        },
+        {
+          "label": "差分、积分等分析"
+        },
+        {
+          "label": "线性分析"
+        },
+        {
+          "label": "故障注入、侧信道"
+        }
+      ]
+    },
+    {
+      "label": "哈希函数",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "常见 Hash",
+          "children": [
+            {
+              "label": "MD5"
+            },
+            {
+              "label": "SHA0/SHA1"
+            },
+            {
+              "label": "SHA2(SHA224/256/384/512)"
+            },
+            {
+              "label": "SHA3(Keccak)"
+            },
+            {
+              "label": "BLAKE2/BLAKE3"
+            },
+            {
+              "label": "Argon2(Password Hashing)"
+            }
+          ]
+        },
+        {
+          "label": "彩虹表/暴力破解"
+        },
+        {
+          "label": "生日攻击/中间相遇攻击"
+        },
+        {
+          "label": "Hash 构造结构",
+          "children": [
+            {
+              "label": "Merkle–Damgard",
+              "children": [
+                {
+                  "label": "长度扩展攻击"
+                }
+              ]
+            },
+            {
+              "label": "Sponge Function"
+            }
+          ]
+        },
+        {
+          "label": "MD5 fastcoll/chosen-prefix",
+          "children": [
+            {
+              "label": "差分分析"
+            },
+            {
+              "label": "Tunnels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "认证与完整性",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "MAC",
+          "children": [
+            {
+              "label": "ANSI CBC-MAC"
+            },
+            {
+              "label": "Universal Hash Function & Carter-Wegman MAC"
+            },
+            {
+              "label": "HMAC"
+            }
+          ]
+        },
+        {
+          "label": "Merkle Tree"
+        },
+        {
+          "label": "KDF",
+          "children": [
+            {
+              "label": "HKDF"
+            },
+            {
+              "label": "PBKDF2"
+            }
+          ]
+        },
+        {
+          "label": "MAC-then-Encrypt vs Encrypt-then-MAC"
+        },
+        {
+          "label": "AEAD",
+          "children": [
+            {
+              "label": "GCM/OCB/SIV/Poly1305 及相关攻击（GCM nonce reuse、OCB2）"
+            }
+          ]
+        },
+        {
+          "label": "Authenticated Cipher",
+          "children": [
+            {
+              "label": "AEGIS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "公钥密码",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "常见公钥加密算法",
+          "children": [
+            {
+              "label": "RSA"
+            },
+            {
+              "label": "ElGamal"
+            },
+            {
+              "label": "ECIES/DHIES"
+            },
+            {
+              "label": "Rabin"
+            },
+            {
+              "label": "Paillier"
+            }
+          ]
+        },
+        {
+          "label": "RSA 相关攻击",
+          "children": [
+            {
+              "label": "共模攻击"
+            },
+            {
+              "label": "parity oracle"
+            },
+            {
+              "label": "Bleichenbacher’s Attack"
+            },
+            {
+              "label": "Hastad Broadcast"
+            },
+            {
+              "label": "FR related message"
+            },
+            {
+              "label": "Short pad attack"
+            },
+            {
+              "label": "Coppersmith 方法",
+              "children": [
+                {
+                  "label": "partial d/p/dp LSB/MSB/multiple-chunk exposure"
+                },
+                {
+                  "label": "Boneh Durfee attack"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "密钥协商",
+          "children": [
+            {
+              "label": "(EC)DH"
+            },
+            {
+              "label": "(EC)MQV"
+            },
+            {
+              "label": "SIKE"
+            }
+          ]
+        },
+        {
+          "label": "故障注入、侧信道"
+        }
+      ]
+    },
+    {
+      "label": "签名",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "常见签名算法",
+          "children": [
+            {
+              "label": "Schnorr"
+            },
+            {
+              "label": "ECDSA/EdDSA"
+            },
+            {
+              "label": "ElGamal"
+            },
+            {
+              "label": "BLS"
+            },
+            {
+              "label": "Lamport"
+            }
+          ]
+        },
+        {
+          "label": "(EC)DSA nonce 相关",
+          "children": [
+            {
+              "label": "reuse nonce"
+            },
+            {
+              "label": "partial nonce exposure"
+            },
+            {
+              "label": "related nonce"
+            }
+          ]
+        },
+        {
+          "label": "故障注入、侧信道"
+        }
+      ]
+    },
+    {
+      "label": "其他公钥密码学相关算法",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "(Ring)LWE"
+        },
+        {
+          "label": "NTRU"
+        },
+        {
+          "label": "GGH"
+        },
+        {
+          "label": "CKKS"
+        },
+        {
+          "label": "Knapsack"
+        }
+      ]
+    }
+  ]
+}
