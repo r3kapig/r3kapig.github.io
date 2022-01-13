@@ -1,0 +1,44 @@
+name: Deploy
+on:
+  push:
+    branches:
+      master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      # https://github.com/actions/cache/blob/master/examples.md#ruby---bundler
+      - name: "Cache: Set up bundler cache"
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with: { node-version: '12.x' }
+
+      - name: Use Ruby
+        uses: actions/setup-ruby@v1
+        with: { ruby-version: '2.7' }
+
+      - name: Setup dependencies
+        run: |
+          npm i
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+      - run: npm run build
+
+      - name: "Deploy to gh-pages 🚀"
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _site

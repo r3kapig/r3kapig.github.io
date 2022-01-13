@@ -9,7 +9,7 @@ export default {
   input: 'assets/components/tree.js',
   external: ['@antv/g6'],
   output: {
-    file: 'assets/js/tree.js',
+    file: 'assets/dist/js/tree.js',
     format: 'umd',
     globals: {
       '@antv/g6': 'G6',
