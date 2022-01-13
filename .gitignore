@@ -1,3 +1,6 @@
 _site
 .sass-cache
 *.lock
+node_modules
+.jekyll-cache
+.DS_Store
