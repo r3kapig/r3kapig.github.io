@@ -2338,6 +2338,9 @@
       }
     }
   });
+  G6__default["default"].Util.traverseTree(data, function (item) {
+    item.id = item.label;
+  });
   graph.data(data);
   graph.render();
   graph.fitView();

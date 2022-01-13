@@ -284,6 +284,9 @@ const graph = new G6.TreeGraph({
   },
 });
 
+G6.Util.traverseTree(data, function (item) {
+  item.id = item.label;
+});
 graph.data(data);
 graph.render();
 graph.fitView();
