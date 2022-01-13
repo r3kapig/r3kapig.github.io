@@ -30,11 +30,14 @@ jobs:
         with: { ruby-version: '2.7' }
 
       - name: Setup dependencies
-        run: npm i
-      - run: npm run build
+        run: |
+          npm i
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+      - run: npm run build && bundle exec jekyll build
 
-      - name: Build and deploy
-        uses: helaili/jekyll-action@v2
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
