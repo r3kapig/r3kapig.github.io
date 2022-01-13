@@ -1,0 +1,487 @@
+{
+  "label": "PWN",
+  "status": 1,
+  "children": [
+    {
+      "label": "传统 pwn",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "栈溢出",
+          "children": [
+            {
+              "label": "基础ROP",
+              "children": [
+                {
+                  "label": "ret2text"
+                },
+                {
+                  "label": "ret2shellcode"
+                },
+                {
+                  "label": "ret2syscall"
+                },
+                {
+                  "label": "ret2libc"
+                }
+              ]
+            },
+            {
+              "label": "中级ROP",
+              "children": [
+                {
+                  "label": "ret2csu"
+                },
+                {
+                  "label": "ret2reg"
+                },
+                {
+                  "label": "BROP"
+                }
+              ]
+            },
+            {
+              "label": "花式ROP",
+              "children": [
+                {
+                  "label": "stack pivoting"
+                },
+                {
+                  "label": "frame faking"
+                },
+                {
+                  "label": "stack smash"
+                }
+              ]
+            },
+            {
+              "label": "高级ROP",
+              "children": [
+                {
+                  "label": "ret2dl_runtime_resolve"
+                },
+                {
+                  "label": "SROP"
+                },
+                {
+                  "label": "ret2VDSO"
+                },
+                {
+                  "label": "JOP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "格式化字符串",
+          "children": [
+            {
+              "label": "栈上的格式化字符串"
+            },
+            {
+              "label": "堆上的格式化字符串"
+            }
+          ]
+        },
+        {
+          "label": "整数溢出",
+          "children": [
+            {
+              "label": "上界溢出"
+            },
+            {
+              "label": "下界溢出"
+            }
+          ]
+        },
+        {
+          "label": "类型混淆"
+        },
+        {
+          "label": "条件竞争"
+        },
+        {
+          "label": "glibc 堆攻击",
+          "children": [
+            {
+              "label": "基础堆漏洞",
+              "children": [
+                {
+                  "label": "heap overflow"
+                },
+                {
+                  "label": "UAF"
+                },
+                {
+                  "label": "off-by-one"
+                },
+                {
+                  "label": "off-by-null"
+                },
+                {
+                  "label": "double-free"
+                },
+                {
+                  "label": "use-after-free"
+                }
+              ]
+            },
+            {
+              "label": "基础堆利用",
+              "children": [
+                {
+                  "label": "overlapping"
+                },
+                {
+                  "label": "unlink"
+                },
+                {
+                  "label": "tcache attack"
+                },
+                {
+                  "label": "fastbin attack"
+                },
+                {
+                  "label": "largebin attack"
+                },
+                {
+                  "label": "unsortedbin attack"
+                }
+              ]
+            },
+            {
+              "label": "高级堆利用",
+              "children": [
+                {
+                  "label": "house-of-spirit"
+                },
+                {
+                  "label": "house-of-lore"
+                },
+                {
+                  "label": "house-of-force"
+                },
+                {
+                  "label": "house-of-einherjar"
+                },
+                {
+                  "label": "hosue-of-orange"
+                },
+                {
+                  "label": "house-of-roman"
+                },
+                {
+                  "label": "house-of-storm"
+                },
+                {
+                  "label": "house-of-botcake"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "musl libc 堆利用"
+        },
+        {
+          "label": "IO_File攻击"
+        }
+      ]
+    },
+    {
+      "label": "内核利用",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "前置知识",
+          "children": [
+            {
+              "label": "操作系统"
+            },
+            {
+              "label": "计算机组成原理"
+            }
+          ]
+        },
+        {
+          "label": "基础概念",
+          "children": [
+            {
+              "label": "ring model"
+            },
+            {
+              "label": "LKM"
+            },
+            {
+              "label": "syscall"
+            },
+            {
+              "label": "ioctl"
+            },
+            {
+              "label": "cred结构"
+            }
+          ]
+        },
+        {
+          "label": "内核保护及绕过",
+          "children": [
+            {
+              "label": "KASLR"
+            },
+            {
+              "label": "SMEP"
+            },
+            {
+              "label": "SMAP"
+            },
+            {
+              "label": "KPTI"
+            },
+            {
+              "label": "堆块隔离"
+            },
+            {
+              "label": "FGkASLR"
+            }
+          ]
+        },
+        {
+          "label": "Linux内核利用",
+          "children": [
+            {
+              "label": "常用堆喷",
+              "children": [
+                {
+                  "label": "userfault fd"
+                },
+                {
+                  "label": "shm_file_data"
+                },
+                {
+                  "label": "timerfd_ctx"
+                },
+                {
+                  "label": "setxattr"
+                },
+                {
+                  "label": "sendmsg"
+                },
+                {
+                  "label": "msg_msg"
+                },
+                {
+                  "label": "seq_operations"
+                }
+              ]
+            },
+            {
+              "label": "ret2usr"
+            },
+            {
+              "label": "kernel UAF"
+            },
+            {
+              "label": "kernel ROP"
+            },
+            {
+              "label": "Double Fetch"
+            }
+          ]
+        },
+        {
+          "label": "Windows内核利用"
+        },
+        {
+          "label": "OSX内核利用"
+        },
+        {
+          "label": "android内核利用"
+        }
+      ]
+    },
+    {
+      "label": "浏览器利用",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "JS引擎internal",
+          "children": [
+            {
+              "label": "mujs"
+            },
+            {
+              "label": "qjs"
+            },
+            {
+              "label": "V8"
+            },
+            {
+              "label": "SpiderMonkey"
+            },
+            {
+              "label": "JSC"
+            },
+            {
+              "label": "CharaCore"
+            },
+            {
+              "label": "JerryScript"
+            }
+          ]
+        },
+        {
+          "label": "JS引擎利用",
+          "children": [
+            {
+              "label": "数组越界"
+            },
+            {
+              "label": "JIT优化"
+            },
+            {
+              "label": "FakeObj和AddrOf利用原语"
+            },
+            {
+              "label": "Use-After-Free"
+            },
+            {
+              "label": "WASM"
+            },
+            {
+              "label": "堆风水"
+            }
+          ]
+        },
+        {
+          "label": "沙盒逃逸",
+          "children": [
+            {
+              "label": "Chrome Sandbox",
+              "children": [
+                {
+                  "label": "mojo"
+                },
+                {
+                  "label": "IPC"
+                }
+              ]
+            },
+            {
+              "label": "IE Sandbox",
+              "children": [
+                {
+                  "label": "LPC port"
+                },
+                {
+                  "label": "RPC message"
+                }
+              ]
+            },
+            {
+              "label": "Firefox Sandbox"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "虚拟机逃逸",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "Libc虚拟机"
+        },
+        {
+          "label": "Unicorn虚拟机"
+        },
+        {
+          "label": "Qemu"
+        },
+        {
+          "label": "VMware"
+        },
+        {
+          "label": "VBox"
+        },
+        {
+          "label": "HyperV"
+        },
+        {
+          "label": "Parallel"
+        }
+      ]
+    },
+    {
+      "label": "IoT hacking",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "嵌入式指令集",
+          "children": [
+            {
+              "label": "ARM"
+            },
+            {
+              "label": "MIPS"
+            },
+            {
+              "label": "RISC-V"
+            }
+          ]
+        },
+        {
+          "label": "硬件调试知识"
+        },
+        {
+          "label": "近场无线协议",
+          "children": [
+            {
+              "label": "蓝牙"
+            },
+            {
+              "label": "Zigbee"
+            },
+            {
+              "label": "WIFI"
+            }
+          ]
+        },
+        {
+          "label": "固件分析知识"
+        }
+      ]
+    },
+    {
+      "label": "沙盒逃逸",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "Seccomp"
+        },
+        {
+          "label": "Ptrace"
+        },
+        {
+          "label": "chroot"
+        },
+        {
+          "label": "docker"
+        }
+      ]
+    },
+    {
+      "label": "Web Pwn",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "Cgi pwn"
+        },
+        {
+          "label": "php pwn"
+        }
+      ]
+    }
+  ]
+}

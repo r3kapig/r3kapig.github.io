@@ -1,0 +1,329 @@
+{
+  "label": "REVERSE",
+  "children": [
+    {
+      "label": "基础知识",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "汇编与反汇编",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "x86"
+            },
+            {
+              "label": "arm"
+            },
+            {
+              "label": "mips"
+            }
+          ]
+        },
+        {
+          "label": "可执行文件格式",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "PE",
+              "children": [
+                {
+                  "label": "NT头"
+                },
+                {
+                  "label": "段表"
+                },
+                {
+                  "label": "导入表"
+                },
+                {
+                  "label": "导出表"
+                }
+              ]
+            },
+            {
+              "label": "ELF",
+              "children": [
+                {
+                  "label": "段表"
+                },
+                {
+                  "label": "符号表"
+                }
+              ]
+            },
+            {
+              "label": "APK",
+              "children": [
+                {
+                  "label": "打包与签名"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "调试原理",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "断点原理",
+              "children": [
+                {
+                  "label": "软件断点"
+                },
+                {
+                  "label": "硬件断点"
+                },
+                {
+                  "label": "内存断点"
+                },
+                {
+                  "label": "单步断点"
+                }
+              ]
+            },
+            {
+              "label": "调试接口"
+            },
+            {
+              "label": "反调试检测"
+            },
+            {
+              "label": "调试符号"
+            }
+          ]
+        },
+        {
+          "label": "编译原理",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "语法树"
+            },
+            {
+              "label": "中间代码生成"
+            },
+            {
+              "label": "代码优化"
+            },
+            {
+              "label": "机器码生成"
+            },
+            {
+              "label": "控制流程图"
+            },
+            {
+              "label": "数据结构与虚函数表"
+            }
+          ]
+        },
+        {
+          "label": "操作系统",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "程序加载"
+            },
+            {
+              "label": "进程线程"
+            },
+            {
+              "label": "系统调用"
+            },
+            {
+              "label": "栈与堆"
+            },
+            {
+              "label": "CPU虚拟化"
+            },
+            {
+              "label": "保护模式"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "工具使用",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "静态分析",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "工具",
+              "children": [
+                {
+                  "label": "ida"
+                },
+                {
+                  "label": "ghidra"
+                },
+                {
+                  "label": "jeb"
+                }
+              ]
+            },
+            {
+              "label": "交互分析"
+            },
+            {
+              "label": "分析脚本"
+            }
+          ]
+        },
+        {
+          "label": "动态分析",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "工具",
+              "children": [
+                {
+                  "label": "x64dbg"
+                },
+                {
+                  "label": "gdb"
+                },
+                {
+                  "label": "windbg"
+                },
+                {
+                  "label": "frida"
+                }
+              ]
+            },
+            {
+              "label": "断点设置"
+            },
+            {
+              "label": "跟踪运行"
+            },
+            {
+              "label": "调试脚本"
+            }
+          ]
+        },
+        {
+          "label": "模拟执行与符号执行",
+          "collapsed": true,
+          "children": [
+            {
+              "label": "unicorn"
+            },
+            {
+              "label": "miasm"
+            },
+            {
+              "label": "triton"
+            },
+            {
+              "label": "pin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "语言特征",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "cpp"
+        },
+        {
+          "label": "golang"
+        },
+        {
+          "label": "wasm"
+        },
+        {
+          "label": "dot net"
+        }
+      ]
+    },
+    {
+      "label": "常见框架",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "socket"
+        },
+        {
+          "label": "多线程"
+        },
+        {
+          "label": "调试器"
+        },
+        {
+          "label": "MFC"
+        },
+        {
+          "label": "内核驱动"
+        }
+      ]
+    },
+    {
+      "label": "混淆对抗",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "垃圾指令"
+        },
+        {
+          "label": "控制流平坦化"
+        },
+        {
+          "label": "代码虚拟化"
+        }
+      ]
+    },
+    {
+      "label": "常见算法",
+      "collapsed": true,
+      "children": [
+        {
+          "label": "编码算法",
+          "children": [
+            {
+              "label": "base64"
+            },
+            {
+              "label": "hex"
+            },
+            {
+              "label": "urlencode"
+            }
+          ]
+        },
+        {
+          "label": "加密算法",
+          "children": [
+            {
+              "label": "AES"
+            },
+            {
+              "label": "RSA"
+            },
+            {
+              "label": "DES"
+            }
+          ]
+        },
+        {
+          "label": "压缩算法",
+          "children": [
+            {
+              "label": "lzma"
+            },
+            {
+              "label": "Huffman"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
