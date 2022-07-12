@@ -80,6 +80,7 @@ id: index
 | Security Fest 2022 1st🏆place |Online,June.2022|
 | DEF CON CTF Qualifier 2022 13th place |Online,May.2022|
 | VolgaCTF 2022 Qualifier 6th place |Online,May.2022|
+| Securinets CTF Final 2022 3rd place |Online,May.2022|
 | sixsarCTF 2022 9th place |Online,Apr.2022|
 | Securinets CTF Quals 2022 6th place |Online,Apr.2022|
 | UTCTF 2022 3rd place |Online,Mar.2022|
