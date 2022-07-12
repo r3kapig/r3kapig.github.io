@@ -73,6 +73,21 @@ id: index
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| Azure Assassin Alliance CTF 2022 4th place |Online,June.2022|
+| TyphoonCon CTF 2022 1st🏆place |Online,June.2022|
+| justCTF 2022 6th place |Online,June.2022|
+| SEETF 2022 1st🏆place |Online,June.2022|
+| Security Fest 2022 1st🏆place |Online,June.2022|
+| DEF CON CTF Qualifier 2022 13th place |Online,May.2022|
+| VolgaCTF 2022 Qualifier 6th place |Online,May.2022|
+| sixsarCTF 2022 9th place |Online,Apr.2022|
+| Securinets CTF Quals 2022 6th place |Online,Apr.2022|
+| UTCTF 2022 3rd place |Online,Mar.2022|
+| D^3CTF 2022 7th place |Online,Mar.2022|
+| Codegate CTF 2022 Preliminary 10th place |Online,Feb.2022|
+| Ugra CTF Quals 2022 6th place |Online,Feb.2022|
+| DefCamp CTF 21-22 Online 3rd place |Online,Feb.2022|
+| Real World CTF 4th place |Online,Jan.2022|
 | SCTF 2021 8th place |Online,Dec.2021|
 | SECCON CTF 2021 8th place |Online,Dec.2021|
 | N1CTF 2021 2nd place |Online,Nov.2021|
