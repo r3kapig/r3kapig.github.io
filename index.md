@@ -66,7 +66,6 @@ If necessary, this is our official email: root@r3kapig.com
 
 # Selected Awards
 
-
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
 | Azure Assassin Alliance CTF 2022 4th place |Online,June.2022|
@@ -117,6 +116,5 @@ If necessary, this is our official email: root@r3kapig.com
 | Nuit du Hack CTF Quals 2018, 5th place (JD-r3kapig)  |         Online, Oct. 2018 |
 | DEFCON 26 CTF Final, 18th place                      | Las Vegas, USA, Aug. 2018 |
 | Real World CTF 2018 Quals, 3rd place                 |        Online, July. 2018 |
-
 
 <p class="right">... more available at <a href="//ctftime.org/team/58979">ctftime</a>.</p>
