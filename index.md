@@ -69,6 +69,16 @@ If necessary, this is our official email: root@r3kapig.com
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| Real World CTF 5th 4th place | Online,Jan.2023 |
+| TetCTF 2023 6th place | Online,Jan.2023 |
+| ASIS CTF Finals 2022 7th place | Online,Dec.2022 |
+| N1CTF 2022 6th place | Online,Nov.2022 |
+| ASIS CTF Quals 2022 5th place | Online,Oct.2022 |
+| CyberSecurityRumble CTF 2022 3rd place | Online,Oct.2022 |
+| DownUnderCTF 2022 (Online) 5th place | Online,Sep.2022 |
+| CTFZone 2022 4th place | Online,Aug.2022 |
+| WMCTF 2022 1st🏆place | Online,Aug.2022 |
+| corCTF 2022 5th place | Online,Aug.2022 |
 | Azure Assassin Alliance CTF 2022 4th place |Online,June.2022|
 | TyphoonCon CTF 2022 1st🏆place |Online,June.2022|
 | justCTF 2022 6th place |Online,June.2022|
