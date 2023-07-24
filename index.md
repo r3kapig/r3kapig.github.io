@@ -69,6 +69,39 @@ If necessary, this is our official email: root@r3kapig.com
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| zer0pts CTF 2023 7th place | Online,July.2023 |
+| Grey Cat The Flag 2023 Final 1st🏆place | Singapore,July.2023 |
+| CyberSecurityRumble Quals 6th place | Online,July.2023 |
+| CrewCTF 2023 3rd place | Online,July.2023 |
+| Crypto CTF 2023 10th place | Online,July.2023 |
+| Google Capture The Flag 2023 13th place | Online,June.2023 |
+| Codegate CTF 2023 Preliminary 6th place | Online,June.2023 |
+| TyphoonCon CTF 2023 1st🏆place | Online,June.2023 |
+| SEETF 2023 4th place | Online,June.2023 |
+| GPN CTF 2023 1st🏆place  | Online,June.2023 |
+| HSCTF 10 1st🏆place  | Online,June.2023 |
+| justCTF 2023 1st🏆place  | Online,June.2023 |
+| DEF CON CTF Qualifier 2023 9th place (P1G BuT S4D) | Online,May.2023 |
+| Security Fest 2023 3rd place | Online,May.2023 |
+| Grey Cat The Flag 2023 Qualifiers 5th place | Online,May.2023 |
+| VolgaCTF 2023 Qualifier 4th place | Online,May.2023 |
+| p4ctf 2023 teaser 3rd place | Online,May.2023 |
+| San Diego CTF 2023 4th place | Online,May.2023 |
+| D^3CTF 2023 4th place | Online,Apr.2023 |
+| TAMUctf 2023 4th place | Online,Apr.2023 |
+| ångstromCTF 2023 3rd place | Online,Apr.2023 |
+| PlaidCTF 2023 3rd place (P1G BuT S4D) | Online,Apr.2023 |
+| HackPack CTF 2023 2nd place | Online,Apr.2023 |
+| DamCTF 2023 1st🏆place | Online,Apr.2023 |
+| LINE CTF 2023 4th place  | Online,Mar.2023 |
+| UMass CTF 2023 4th place  | Online,Mar.2023 |
+| b01lers CTF 6th place | Online,Mar.2023 |
+| WolvCTF 2023 2nd place  | Online,Mar.2023 |
+| KalmarCTF 2023 4th place | Online,Mar.2023 |
+| HackTM CTF Quals 2023 7th place | Online,Feb.2023 |
+| DiceCTF 2023 2nd place | Online,Feb.2023 |
+| bi0sCTF 2022 4th place | Online,Jan.2023 |
+| idekCTF 2022* 2nd place | Online,Jan.2023 |
 | Real World CTF 5th 4th place | Online,Jan.2023 |
 | TetCTF 2023 6th place | Online,Jan.2023 |
 | ASIS CTF Finals 2022 7th place | Online,Dec.2022 |
