@@ -66,7 +66,6 @@ If necessary, this is our official email: root@r3kapig.com
 
 # Selected Awards
 
-
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
 | zer0pts CTF 2023 7th place | Online,July.2023 |
