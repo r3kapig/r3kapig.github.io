@@ -79,9 +79,11 @@ If necessary, this is our official email: root@r3kapig.com
 | BRICS+ CTF Quals 2023 5th place | Online,Sep.2023 |
 | vsCTF 2023 2nd place | Online,Sep.2023 |
 | SECCON CTF 2023 Quals 7th place (P1G SEKAI) | Online,Sep.2023 |
+| HITCON CTF 2023 Quals 11th place (P1G BuT S4D) | Online,Sep.2023 |
 | WMCTF2023 7th place | Online,Aug.2023 |
 | Hacker's Playground 2023 5th place | Online,Aug.2023 |
 | CCCamp 2023 2nd place | Online,Aug.2023 |
+| DEF CON CTF 2023 7th place (P1G BuT S4D) | USA,Aug.2023 |
 | Securinets CTF Quals 2023 2nd place | Online,Aug.2023 |
 | corCTF 2023 4th place | Online,July.2023 |
 | TFC CTF 2023 1st🏆place | Online,July.2023 |
