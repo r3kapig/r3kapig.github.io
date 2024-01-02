@@ -68,6 +68,23 @@ If necessary, this is our official email: root@r3kapig.com
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
+| SECCON CTF 2023 International Finals 7th (P1G SEKAI) | Japan,Dec.2023 |
+| 0CTF/TCTF 2023 6th place | Online,Dec.2023 |
+| GlacierCTF 2023 3rd place | Online,Nov.2023 |
+| TSG CTF 2023 5th place | Online,Nov.2023 |
+| N1CTF 2023 4th place | Online,Oct.2023 |
+| Hack.lu CTF 2023 8th place | Online,Oct.2023 |
+| Balsn CTF 2023 2nd place | Online,Oct.2023 |
+| Securinets CTF Final 2023 2nd place | Tunisia,Sep.2023 |
+| BRICS+ CTF Quals 2023 5th place | Online,Sep.2023 |
+| vsCTF 2023 2nd place | Online,Sep.2023 |
+| SECCON CTF 2023 Quals 7th place (P1G SEKAI) | Online,Sep.2023 |
+| WMCTF2023 7th place | Online,Aug.2023 |
+| Hacker's Playground 2023 5th place | Online,Aug.2023 |
+| CCCamp 2023 2nd place | Online,Aug.2023 |
+| Securinets CTF Quals 2023 2nd place | Online,Aug.2023 |
+| corCTF 2023 4th place | Online,July.2023 |
+| TFC CTF 2023 1st🏆place | Online,July.2023 |
 | zer0pts CTF 2023 7th place | Online,July.2023 |
 | Grey Cat The Flag 2023 Final 1st🏆place | Singapore,July.2023 |
 | CyberSecurityRumble Quals 6th place | Online,July.2023 |
