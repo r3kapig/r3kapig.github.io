@@ -68,7 +68,45 @@ If necessary, this is our official email: root@r3kapig.com
 
 |                 Game Name                            |           Time            |
 | ---------------------------------------------------- | ------------------------: |
-| SECCON CTF 2023 International Finals 7th (P1G SEKAI) | Japan,Dec.2023 |
+| ASIS CTF Finals 2024 4th place | Online,Dec.2024 |
+| 0CTF 2024 2nd place | Online,Dec.2024 |
+| TSG CTF 2024 4th place | Online,Dec.2024 |
+| SECCON CTF 13 Quals 4th place (P1G SEKAI) | Online,Nov.2024 |
+| N1CTF 2024 2nd place | Online,Nov.2024 |
+| SAS CTF 2024 Finals 2nd place (P1G SEKAI) | Bali,Indonesia,Oct.2024 |
+| Hack.lu CTF 2024 4th place | Online,Oct.2024 |
+| Securinets CTF Quals 2024 4th place | Online,Oct.2024 |
+| BRICS+ CTF Quals 2024 1st🏆place | Online,Oct.2024 |
+| justCTF 2024 finals 6th place (P1G SEKAI) | Cracow,Poland,Aug.2024 |
+| BuckeyeCTF 2024 2nd place | Online,Sep.2024 |
+| ASIS CTF Quals 2024 3rd place | Online,Sep.2024 |
+| WMCTF2024 2nd place | Online,Sep.2024 |
+| CyberSpace CTF 2024 1st🏆place | Online,Aug.2024 |
+| SekaiCTF 2024 3rd place | Online,Aug.2024 |
+| idekCTF 2024 1st🏆place (P1G SEKAI) | Online,Aug.2024 |
+| CTFZone 2024 Quals 2nd place | Online,Aug.2024 |
+| DEF CON CTF 2024 4th place (RePokemonedCollections) | Las Vegas,USA,July.2024 |
+| TFC CTF 2024 2nd place | Online,Aug.2024 |
+| corCTF 2024 2nd place (P1G SEKAI) | Online,July.2024 |
+| HITCON CTF 2024 Quals 5th place (RePokemonedCollections) | Online,July.2024 |
+| DownUnderCTF 2024 4th place | Online,July.2024 |
+| DiceCTF 2024 Finals 5th place (P1G SEKAI) | New York City,USA,June.2024 |
+| UIUCTF 2024 2nd place | Online,June.2024 |
+| justCTF 2024 teaser 1st🏆place (P1G SEKAI) | Online,June.2024 |
+| SAS CTF 2024 Quals 3rd place (P1G SEKAI) | Online,May.2024 |
+| CyberSecurityRumble Quals 4th place | Online,May.2024 |
+| DEF CON CTF Qualifier 2024 3rd place (RePokemonedCollections) | Online,May.2024 |
+| cr3 CTF 2024 5th place | Online,Apr.2024 |
+| Grey Cat The Flag 2024 Qualifiers 1st🏆place | Online,Apr.2024 |
+| b01lers CTF 2024 1st🏆place | Online,Apr.2024 |
+| PlaidCTF 2024 5th place (RePokemonedCollections) | Online,Apr.2024 |
+| VolgaCTF 2024 Qualifier 3rd place | Online,Mar.2024 |
+| WolvCTF 2024 3rd place | Online,Mar.2024 |
+| Cyber Apocalypse 2024: Hacker Royale 5th place | Online,Mar.2024 |
+| GCC CTF 2024 4th place | Online,Mar.2024 |
+| bi0sCTF 2024 2nd place | Online,Feb.2024 |
+| DiceCTF 2024 Quals 3rd (P1G SEKAI) |  Online,Feb.2024 |
+| SECCON CTF 2023 International Finals 7th (P1G SEKAI) | Tokyo,Japan,Dec.2023 |
 | 0CTF/TCTF 2023 6th place | Online,Dec.2023 |
 | GlacierCTF 2023 3rd place | Online,Nov.2023 |
 | TSG CTF 2023 5th place | Online,Nov.2023 |
