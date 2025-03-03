@@ -56,7 +56,8 @@ id: index
 | <img src="assets/profile/lowkey.jpg" class="profile-image" alt="profile-image" >| **lowkey**<br />Just to convince the reviewer.<br /> |
 | <img src="assets/profile/lfy.jpg" class="profile-image" alt="profile-image"  /> |**LFY**<br />Web dog, most vegetablest in r3kapig.<br />- Blog: [https://lfysec.top/](//lfysec.top/)|
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
-
+| <img src="assets/profile/n132.jpg" class="profile-image" alt="profile-image"  />  | **n132** <br />I do binary research.<br />- Homepage: [About](//n132.github.io/about)<br />- Github: [n132](//github.com/n132)  |
+| <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato** <br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
 <br>
 
 ## 历史活跃成员
