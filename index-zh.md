@@ -58,7 +58,7 @@ id: index
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
 | <img src="assets/profile/n132.jpg" class="profile-image" alt="profile-image"  />  | **n132** <br />I do binary research.<br />- Homepage: [About](//n132.github.io/about)<br />- Github: [n132](//github.com/n132)  |
 | <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato** <br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
-<br>
+| <img src="assets/profile/c0conut.jpg" class="profile-image" alt="profile-image"  />  | **c0conut** <br />A PhD student at University of Waterloo. Crypto, Forensics, Misc<br />- Homepage: [About](//crane-mocker.github.io/about/)<br />- Github: [Anais Huang](//github.com/Crane-Mocker) |
 
 ## 历史活跃成员
 
