@@ -15,7 +15,7 @@ jobs:
 
       # https://github.com/actions/cache/blob/master/examples.md#ruby---bundler
       - name: "Cache: Set up bundler cache"
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -23,7 +23,7 @@ jobs:
             ${{ runner.os }}-gems-
       - name: Use Node.js
         uses: actions/setup-node@v1
-        with: { node-version: '12.x' }
+        with: { node-version: '22.x' }
 
       - name: Use Ruby
         uses: ruby/setup-ruby@v1
