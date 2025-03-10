@@ -54,6 +54,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/n132.jpg" class="profile-image" alt="profile-image"  />  | **n132** <br />I do binary research.<br />- Homepage: [About](//n132.github.io/about)<br />- Github: [n132](//github.com/n132)  |
 | <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato** <br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
 | <img src="assets/profile/c0conut.jpg" class="profile-image" alt="profile-image"  />  | **c0conut** <br />A PhD student at University of Waterloo. Crypto, Forensics, Misc<br />- Homepage: [About](//crane-mocker.github.io/about/)<br />- Github: [Anais Huang](//github.com/Crane-Mocker) |
+| <img src="assets/profile/1032.gif" class="profile-image" alt="profile-image"  />  | **Ghost1032** <br />I love CS, CS, CS, CS and Cats.<br />- About: [Me](//zhangzihan.com/#about)<br />- Github: [Ghost1032](//github.com/Ghost1032) |
 
 <br>
 
