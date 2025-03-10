@@ -48,6 +48,8 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato** <br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
 | <img src="assets/profile/c0conut.jpg" class="profile-image" alt="profile-image"  />  | **c0conut** <br />A PhD student at University of Waterloo. Crypto, Forensics, Misc<br />- Homepage: [About](//crane-mocker.github.io/about/)<br />- Github: [Anais Huang](//github.com/Crane-Mocker) |
 | <img src="assets/profile/1032.gif" class="profile-image" alt="profile-image"  />  | **Ghost1032** <br />I love CS, CS, CS, CS and Cats.<br />- About: [Me](//zhangzihan.com/#about)<br />- Github: [Ghost1032](//github.com/Ghost1032) |
+| <img src="assets/profile/t4rn.jpg" class="profile-image" alt="profile-image"  /> | **T4rn** <br />Mayday fans  newbie hacker.<br />- About: [Me](//hackerpoet.com/index.php/start-page.html)<br />- Github: [T4rnRookie](//github.com/T4rnRookie) |
+| <img src="assets/profile/tr0jan.jpg" class="profile-image" alt="profile-image"  /> | **Tr0jAn** <br />WMLS, compared with the mayday fans above, I am slightly inferior (including security research)<br/>I am a graduate student at Lanzhou University, researching whatever is fun.<br/>I hope the reviewers will show some mercy.<br />- Email: [Tr0jAn](mailto:tr0jan@lzu.edu.cn) |
 
 <br>
 
