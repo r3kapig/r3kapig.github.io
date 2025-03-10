@@ -40,7 +40,6 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
 | <img src="assets/profile/liangjs.jpg" class="profile-image" alt="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image" alt="profile-image">|**Pizza**<br />Reverse|
-| <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 | <img src="assets/profile/lowkey.jpg" class="profile-image" alt="profile-image" >| **lowkey**<br />Just to convince the reviewer.<br /> |
 | <img src="assets/profile/lfy.jpg" class="profile-image" alt="profile-image"  /> |**LFY**<br />Web dog, most vegetablest in r3kapig.<br />- Blog: [https://lfysec.top/](//lfysec.top/)|
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
@@ -67,7 +66,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) 
-
+| <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 
 
 <br>
