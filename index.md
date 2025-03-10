@@ -41,13 +41,9 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/zzm.jpg" class="profile-image" alt="profile-image"  /> |**zzm**<br />Web Security & Machine Learning Follower of Ricter and Chromium1337<br />- Blog: [http://zzm.cat](http://zzm.cat)<br />- Github: [zhazhami](//github.com/zhazhami) |
 | <img src="assets/profile/yypl.jpg" class="profile-image" alt="profile-image"  /> |**一叶飘零**<br />Web Security &  Follower of Ricter and Chromium1337<br />- Blog: [https://skysec.top/](//skysec.top/)|
 | <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
-| <img src="assets/profile/n0b0dy.png" class="profile-image" alt="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
-| <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
-| <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
 | <img src="assets/profile/liangjs.jpg" class="profile-image" alt="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image" alt="profile-image">|**Pizza**<br />Reverse|
 | <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
-| <img src="assets/profile/w1tcher.jpg" class="profile-image" alt="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />|
 | <img src="assets/profile/lowkey.jpg" class="profile-image" alt="profile-image" >| **lowkey**<br />Just to convince the reviewer.<br /> |
 | <img src="assets/profile/lfy.jpg" class="profile-image" alt="profile-image"  /> |**LFY**<br />Web dog, most vegetablest in r3kapig.<br />- Blog: [https://lfysec.top/](//lfysec.top/)|
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
@@ -65,6 +61,12 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/jarvis.png" class="profile-image" alt="profile-image" /> | **Jarvis**<br />White hat, full stack, embedded engineer, IoT security researcher<br /> - Blog: [https://www.jarviswang.me/](//www.jarviswang.me/)|
 | <img src="assets/profile/1phan.jpg" class="profile-image" alt="profile-image"  />   | **1phan**  <br />B.S in Xidian University & PhD in IUB <br />- Blog: [http://www.1phan.cc](http://www.1phan.cc)<br />- Github: [Gao-Chuan](//github.com/Gao-Chuan) |
 | <img src="assets/profile/processor.jpg" class="profile-image" alt="profile-image"  />  | **Processor**<br />No pwn, no reverse.<br />- Blog: [https://processor.pub/](//processor.pub/)|
+| <img src="assets/profile/n0b0dy.png" class="profile-image" alt="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
+| <img src="assets/profile/w1tcher.jpg" class="profile-image" alt="profile-image">| **w1tcher**<br />No pwn, No Swings.<br />|
+| <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
+| <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
+
+
 
 <br>
 
