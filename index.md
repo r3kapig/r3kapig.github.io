@@ -50,6 +50,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/t4rn.jpg" class="profile-image" alt="profile-image"  /> | **T4rn** <br />Mayday fans  newbie hacker.<br />- About: [Me](//hackerpoet.com/index.php/start-page.html)<br />- Github: [T4rnRookie](//github.com/T4rnRookie) |
 | <img src="assets/profile/tr0jan.jpg" class="profile-image" alt="profile-image"  /> | **Tr0jAn** <br />WMLS, compared with the mayday fans above, I am slightly inferior (including security research)<br/>I am a graduate student at Lanzhou University, researching whatever is fun.<br/>I hope the reviewers will show some mercy.<br />- Email: [Tr0jAn](mailto:tr0jan@lzu.edu.cn) |
 | <img src="assets/profile/B.M.K.gif" class="profile-image" alt="profile-image"  />  | **B.M.K** <br />Reverse.<br />- Github: [B.M.K](//github.com/BrowMK) |
+| <img src="assets/profile/rec.jpg" class="profile-image" alt="profile-image"  />  | **rec** <br />Crypto (maybe).<br />- Github: [rec](//github.com/Rechn0) |
 
 <br>
 
