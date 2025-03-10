@@ -36,7 +36,7 @@ id: index
 | <img src="assets/profile/bibi.jpg" class="profile-image" alt="profile-image"  />    | **Bibi** (Leader)<br />- Blog: [http://beafb1b1.github.io/](http://beafb1b1.github.io/)<br />- Github: [beafb1b1](//github.com/beafb1b1)                                           |
 | <img src="assets/profile/Atum.jpg" class="profile-image" alt="profile-image"  />     | **Atum** <br />Peking University<br />- Blog: [http://atum.li/about/](http://atum.li/about/)<br />- Github: [a7um](//github.com/a7um) |
 | <img src="assets/profile/mxny.jpeg" class="profile-image" alt="profile-image"  />   | **Mxny**  <br /> Work in MaiXiangTech  <br />- Blog: [http://mxny.org](http://mxny.org) |
-| <img src="assets/profile/ne0.jpeg" class="profile-image" alt="profile-image"  />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](//changochen.github.io/about.html)<br />- Github: [Changochen](//github.com/changochen) |
+| <img src="assets/profile/ne0.jpeg" class="profile-image" alt="profile-image"  />    | **Ne0**<br />B.S in Nanjing University & PhD in Georgia Tech<br />- Blog: [https://changochen.github.io/](//changochen.github.io/about.html)<br />- Github: [Changochen](//github.com/changochen) ||
 | <img src="assets/profile/swing.jpeg" class="profile-image" alt="profile-image"  />  | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](//bestwing.me/)<br />- Github: [WinMin](//github.com/WinMin) |
 | <img src="assets/profile/nonick.gif" class="profile-image" alt="profile-image"  />  | **Nonick**<br />Uneducated<br />- Blog: [http://127.0.0.1/](http://127.0.0.1/)<br />- Github: [unamer](//github.com/unamer) |
 | <img src="assets/profile/nightshadow.jpg" class="profile-image" alt="profile-image"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog: [whklhhhh](http://blog.csdn.net/whklhhhh)|
@@ -45,7 +45,6 @@ id: index
 | <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/)|
 | <img src="assets/profile/liangjs.jpg" class="profile-image" alt="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs)|
 | <img src="assets/profile/pizza.jpg" class="profile-image" alt="profile-image">|**Pizza**<br />Reverse|
-| <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 | <img src="assets/profile/lowkey.jpg" class="profile-image" alt="profile-image" >| **lowkey**<br />Just to convince the reviewer.<br /> |
 | <img src="assets/profile/lfy.jpg" class="profile-image" alt="profile-image"  /> |**LFY**<br />Web dog, most vegetablest in r3kapig.<br />- Blog: [https://lfysec.top/](//lfysec.top/)|
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
@@ -55,6 +54,8 @@ id: index
 | <img src="assets/profile/1032.gif" class="profile-image" alt="profile-image"  />  | **Ghost1032** <br />I love CS, CS, CS, CS and Cats.<br />- About: [Me](//zhangzihan.com/#about)<br />- Github: [Ghost1032](//github.com/Ghost1032) |
 | <img src="assets/profile/t4rn.jpg" class="profile-image" alt="profile-image"  /> | **T4rn** <br />Mayday fans  newbie hacker.<br />- About: [Me](//hackerpoet.com/index.php/start-page.html)<br />- Github: [T4rnRookie](//github.com/T4rnRookie) |
 | <img src="assets/profile/tr0jan.jpg" class="profile-image" alt="profile-image"  /> | **Tr0jAn** <br />WMLS, compared with the mayday fans above, I am slightly inferior (including security research)<br/>I am a graduate student at Lanzhou University, researching whatever is fun.<br/>I hope the reviewers will show some mercy.<br />- Email: [Tr0jAn](mailto:tr0jan@lzu.edu.cn) |
+
+<br>
 
 ## 历史活跃成员
 
@@ -70,6 +71,7 @@ id: index
 | <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) 
+| <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 
 <br>
 
