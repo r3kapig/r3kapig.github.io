@@ -57,6 +57,7 @@ id: index
 | <img src="assets/profile/B.M.K.gif" class="profile-image" alt="profile-image"  />  | **B.M.K** <br />Reverse.<br />- Github: [B.M.K](//github.com/BrowMK) |
 | <img src="assets/profile/rec.jpg" class="profile-image" alt="profile-image"  />  | **rec** <br />Crypto (maybe).<br />- Github: [rec](//github.com/Rechn0) |
 | <img src="assets/profile/0xdaidai.jpg" class="profile-image" alt="profile-image" /> | **0xdaidai** <br />Keep calm and sleep.<br />- Github: [0xdaidai](//github.com/0xdaidai) |
+| <img src="assets/profile/lunashci.png" class="profile-image" alt="profile-image" /> | **lunashci** <br />I reverse-engineer things, survive Flare-On, and spam F7 when static analysis isn’t enough.<br />- Github: [lunashci](//github.com/lunashci) |
 
 <br>
 
