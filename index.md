@@ -54,6 +54,8 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/0xdaidai.jpg" class="profile-image" alt="profile-image" /> | **0xdaidai** <br />Keep calm and sleep.<br />- Github: [0xdaidai](//github.com/0xdaidai) |
 | <img src="assets/profile/lunashci.png" class="profile-image" alt="profile-image" /> | **lunashci** <br />I reverse-engineer things, survive Flare-On, and spam F7 when static analysis isn’t enough.<br />- Github: [lunashci](//github.com/lunashci) |
 
+<br>
+
 ## Historical Active Members
 
 | | |
@@ -69,7 +71,6 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> | **Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/) |
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) | 
 | <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun) |
-
 
 <br>
 
