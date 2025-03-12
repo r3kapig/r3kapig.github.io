@@ -56,6 +56,7 @@ id: index
 | <img src="assets/profile/tr0jan.jpg" class="profile-image" alt="profile-image"  /> | **Tr0jAn** <br />WMLS, compared with the mayday fans above, I am slightly inferior (including security research)<br/>I am a graduate student at Lanzhou University, researching whatever is fun.<br/>I hope the reviewers will show some mercy.<br />- Email: [Tr0jAn](mailto:tr0jan@lzu.edu.cn) |
 | <img src="assets/profile/B.M.K.gif" class="profile-image" alt="profile-image"  />  | **B.M.K** <br />Reverse.<br />- Github: [B.M.K](//github.com/BrowMK) |
 | <img src="assets/profile/rec.jpg" class="profile-image" alt="profile-image"  />  | **rec** <br />Crypto (maybe).<br />- Github: [rec](//github.com/Rechn0) |
+| <img src="assets/profile/tangcuxiaojikuai.gif" class="profile-image" alt="profile-image" /> | **糖醋小鸡块** <br />[oi]<br />- Blog: [tangcuxiaojikuai](https://tangcuxiaojikuai.xyz/)<br />- Github: [tangcuxiaojikuai](//github.com/tangcuxiaojikuai) |
 | <img src="assets/profile/0xdaidai.jpg" class="profile-image" alt="profile-image" /> | **0xdaidai** <br />Keep calm and sleep.<br />- Github: [0xdaidai](//github.com/0xdaidai) |
 | <img src="assets/profile/lunashci.png" class="profile-image" alt="profile-image" /> | **lunashci** <br />I reverse-engineer things, survive Flare-On, and spam F7 when static analysis isn’t enough.<br />- Github: [lunashci](//github.com/lunashci) |
 
