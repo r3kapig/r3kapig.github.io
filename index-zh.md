@@ -60,6 +60,7 @@ id: index
 | <img src="assets/profile/0xdaidai.jpg" class="profile-image" alt="profile-image" /> | **0xdaidai** <br />Keep calm and sleep.<br />- Github: [0xdaidai](//github.com/0xdaidai) |
 | <img src="assets/profile/lunashci.png" class="profile-image" alt="profile-image" /> | **lunashci** <br />I reverse-engineer things, survive Flare-On, and spam F7 when static analysis isn’t enough.<br />- Github: [lunashci](//github.com/lunashci) |
 | <img src="assets/profile/mivik.png" class="profile-image" alt="profile-image" /> | **Mivik** <br />Musc hecker<br />- Github: [Mivik](//github.com/Mivik) |
+| <img src="assets/profile/mochizou.jpg" class="profile-image" alt="profile-image" /> | **Mochizou** <br />I reverse engineer and hack windows, also sad all the time.<br />- Github: [Mochizou](//github.com/MochiNishimiya) |
 
 <br>
 
