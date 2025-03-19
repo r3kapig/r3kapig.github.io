@@ -36,7 +36,6 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/nonick.gif" class="profile-image" alt="profile-image"  />  | **Nonick**<br />Uneducated<br />- Blog: [http://127.0.0.1/](http://127.0.0.1/)<br />- Github: [unamer](//github.com/unamer) |
 | <img src="assets/profile/nightshadow.jpg" class="profile-image" alt="profile-image"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog: [whklhhhh](http://blog.csdn.net/whklhhhh) |
 | <img src="assets/profile/f1sh.jpg" class="profile-image" alt="profile-image"  />  | **f1sh**<br />Hacked by Swings<br />- Blog: [http://f1sh.site/](http://f1sh.site/) |
-| <img src="assets/profile/stypr.jpg" class="profile-image" alt="profile-image" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog: [https://harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr) |
 | <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/) |
 | <img src="assets/profile/liangjs.jpg" class="profile-image" alt="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs) |
 | <img src="assets/profile/pizza.jpg" class="profile-image" alt="profile-image"> | **Pizza**<br />Reverse |
@@ -75,6 +74,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/n0b0dy.png" class="profile-image" alt="profile-image"  /> | **n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/) |
 | <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image"> | **yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui) |
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> | **Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/) |
+| <img src="assets/profile/stypr.jpg" class="profile-image" alt="profile-image" />  | **stypr**<br />in favor of writing low quality codes.<br />- Blog: [https://harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr) |
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) | 
 | <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun) |
 
