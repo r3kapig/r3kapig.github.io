@@ -80,6 +80,7 @@ id: index
 | <img src="assets/profile/n0b0dy.png" class="profile-image" alt="profile-image"  /> |**n0b0dy**<br />Web security & privacy<br />- Blog: [https://n0b0dycn.me/](//n0b0dycn.me/)|
 | <img src="assets/profile/yuguorui.jpg" class="profile-image" alt="profile-image">|**yuguorui**<br />Peking University, Crypto, Pwn<br />- Github: [yuguorui](//github.com/yuguorui)|
 | <img src="assets/profile/auxy.png" class="profile-image" alt="profile-image" /> |**Auxy**<br />Pass Cut-Off & Noob in Program Analysis<br />- Blog: [https://auxy.xyz](https://www.auxy.xyz/)|
+| <img src="assets/profile/stypr.jpg" class="profile-image" alt="profile-image" />  | **stypr**<br />in favor of writing low quality codes.<br />- Blog: [https://harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr) |
 | <img src="assets/profile/ricter.jpeg" class="profile-image" alt="profile-image"  /> | **Ricter**<br />初❤️を忘れず<br />- Blog: [https://ricterz.me/](//ricterz.me/) <br />- Github: [RicterZ](//github.com/RicterZ) |
 | <img src="assets/profile/rex.jpg" class="profile-image" alt="profile-image">| **Rex**<br />Yet another pig in r3kapig.<br />- Github: [xiao-xing-yun](//github.com/xiao-xing-yun)|
 
