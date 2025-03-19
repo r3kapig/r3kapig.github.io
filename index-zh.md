@@ -41,7 +41,6 @@ id: index
 | <img src="assets/profile/nonick.gif" class="profile-image" alt="profile-image"  />  | **Nonick**<br />Uneducated<br />- Blog: [http://127.0.0.1/](http://127.0.0.1/)<br />- Github: [unamer](//github.com/unamer) |
 | <img src="assets/profile/nightshadow.jpg" class="profile-image" alt="profile-image"  />  | **NightShadow**<br />A vegetables chicken, following swings and pizza<br />- Blog: [whklhhhh](http://blog.csdn.net/whklhhhh) |
 | <img src="assets/profile/f1sh.jpg" class="profile-image" alt="profile-image"  />  | **f1sh**<br />Hacked by Swings<br />- Blog: [http://f1sh.site/](http://f1sh.site/) |
-| <img src="assets/profile/stypr.jpg" class="profile-image" alt="profile-image" />  | **stypr**<br />Master at Sleeping. Working in Tokyo.<br />- Blog: [https://harold.kim/](//harold.kim/)<br />- Github: [stypr](//github.com/stypr) |
 | <img src="assets/profile/oroggs.jpg" class="profile-image" alt="profile-image"  /> |**Oroggs**<br />A vegetables chicken, following swings and pizza and  NightShadow<br />- Blog: [https://blog.oroggs.xyz/](//blog.oroggs.xyz/) |
 | <img src="assets/profile/liangjs.jpg" class="profile-image" alt="profile-image">|**liangjs**<br />Juicy Kiwi<br />- Github: [liangjs](//github.com/liangjs) |
 | <img src="assets/profile/pizza.jpg" class="profile-image" alt="profile-image">|**Pizza**<br />Reverse |
