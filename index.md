@@ -22,6 +22,14 @@ If necessary, this is our official email: root@r3kapig.com
 
 <br>
 
+## Dating Profile Section (not really) 
+
+| | |
+| --------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop** <br />Meow... meow, meow meow? <br />- Blog(down at the moment): [https://fallingraindrop.moe/](https://fallingraindrop.moe/) |
+
+<br>
+
 ## Active Members
 
 
