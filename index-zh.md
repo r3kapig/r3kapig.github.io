@@ -27,14 +27,6 @@ id: index
 
 <br>
 
-## 迫真征婚位
-
-| | |
-| --------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**<br />喵...喵喵喵？<br />- Blog（目前已经无了）: [FallingRaindrop](https://fallingraindrop.moe/) |
-
-<br>
-
 ## 活跃成员
 
 
@@ -56,7 +48,7 @@ id: index
 | <img src="assets/profile/lfy.jpg" class="profile-image" alt="profile-image"  /> |**LFY**<br />Web dog, most vegetablest in r3kapig.<br />- Blog: [https://lfysec.top/](//lfysec.top/) |
 | <img src="assets/profile/umut.png" class="profile-image" alt="profile-image"  />  | **Umut** <br />Pwn and reverse.<br />- Blog: [https://pwndiary.com](//pwndiary.com)<br />- Github: [umutoztunc](//github.com/umutoztunc) |
 | <img src="assets/profile/n132.jpg" class="profile-image" alt="profile-image"  />  | **n132** <br />I do binary research.<br />- Homepage: [About](//n132.github.io/about)<br />- Github: [n132](//github.com/n132)  |
-| <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato** <br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
+| <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato**(Leader)<br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
 | <img src="assets/profile/c0conut.jpg" class="profile-image" alt="profile-image"  />  | **c0conut** <br />A PhD student at University of Waterloo. Crypto, Forensics, Misc<br />- Homepage: [About](//crane-mocker.github.io/about/)<br />- Github: [Anais Huang](//github.com/Crane-Mocker) |
 | <img src="assets/profile/1032.gif" class="profile-image" alt="profile-image"  />  | **Ghost1032** <br />I love CS, CS, CS, CS and Cats.<br />- About: [Me](//zhangzihan.com/#about)<br />- Github: [Ghost1032](//github.com/Ghost1032) |
 | <img src="assets/profile/t4rn.jpg" class="profile-image" alt="profile-image"  /> | **T4rn** <br />Mayday fans  newbie hacker.<br />- About: [Me](//hackerpoet.com/index.php/start-page.html)<br />- Github: [T4rnRookie](//github.com/T4rnRookie) |
@@ -72,6 +64,7 @@ id: index
 | <img src="assets/profile/JANlittle.PNG" class="profile-image" alt="profile-image" /> | **JANlittle** <br />Reverse. My reverse level depends on the level of advancement of the decompiler. <br />- Blog: [JANlittle](https://janlittle.github.io/)<br />- Github: [JANlittle](//github.com/JANlittle) |
 | <img src="assets/profile/frank.jpg" class="profile-image" alt="profile-image"  /> | **FrankWu** <br />和我组一辈子的战队打 CTF 吧<br/> - 主页: [FrankOverFlow](//FrankOverFlow.com) <br />- Github: [GhostFrankWu](//github.com/GhostFrankWu) |
 | <img src="//xia0.sh/avatar.jpg" class="profile-image" alt="profile-image"  /> | **xia0** <br />love making things do what they should not do.<br/> - Blog: [xia0](//xia0.sh) <br />- Github: [KpwnZ](//github.com/KpwnZ) |
+| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**(需要找女朋友!)<br />喵...喵喵喵？<br />- Blog（目前已经无了）: [FallingRaindrop](https://fallingraindrop.moe/) |
 
 <br>
 
