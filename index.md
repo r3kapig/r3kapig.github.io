@@ -58,7 +58,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/JANlittle.PNG" class="profile-image" alt="profile-image" /> | **JANlittle** <br />Reverse. My reverse level depends on the level of advancement of the decompiler. <br />- Blog: [JANlittle](https://janlittle.github.io/)<br />- Github: [JANlittle](//github.com/JANlittle) |
 | <img src="assets/profile/frank.jpg" class="profile-image" alt="profile-image"  /> | **FrankWu** <br />Do something interesting. Do something meaningful.<br/> - About: [FrankOverFlow](//FrankOverFlow.com) <br />- Github: [GhostFrankWu](//github.com/GhostFrankWu) |
 | <img src="//xia0.sh/avatar.jpg" class="profile-image" alt="profile-image"  /> | **xia0** <br />love making things do what they should not do.<br/> - Blog: [xia0](//xia0.sh) <br />- Github: [KpwnZ](//github.com/KpwnZ) |
-| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**(Need girlfriends)<br />Meow... meow, meow meow? <br />- Blog(down at the moment): [https://fallingraindrop.moe/](https://fallingraindrop.moe/) | 
+| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**(Need girlfriend)<br />Meow... meow, meow meow? <br />- Blog(down at the moment): [https://fallingraindrop.moe/](https://fallingraindrop.moe/) | 
 
 <br>
 
