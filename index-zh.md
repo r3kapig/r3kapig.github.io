@@ -65,6 +65,7 @@ id: index
 | <img src="assets/profile/frank.jpg" class="profile-image" alt="profile-image"  /> | **FrankWu** <br />和我组一辈子的战队打 CTF 吧<br/> - 主页: [FrankOverFlow](//FrankOverFlow.com) <br />- Github: [GhostFrankWu](//github.com/GhostFrankWu) |
 | <img src="//xia0.sh/avatar.jpg" class="profile-image" alt="profile-image"  /> | **xia0** <br />love making things do what they should not do.<br/> - Blog: [xia0](//xia0.sh) <br />- Github: [KpwnZ](//github.com/KpwnZ) |
 | <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**<br />喵...喵喵喵？<br />- Blog（目前已经无了）: [FallingRaindrop](https://fallingraindrop.moe/) |
+| <img src="assets/profile/biluv.jpg" class="profile-image" alt="profile-image" /> | **luv**<br /> Hi there <br />- Github: [luv](https://github.com/blluv/) |
 
 <br>
 
