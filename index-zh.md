@@ -32,7 +32,7 @@ id: index
 
 | | |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="assets/profile/crazyman.jpg" class="profile-image" alt="profile-image"  />  | **crazyman**(Leader)<br /> no Forensics no life <br />- Blog: [https://crazymanarmy.github.io](//crazymanarmy.github.io/)/)<br />- Github: [crazyman](//github.com/crazymanarmy) |
+| <img src="assets/profile/crazyman.jpg" class="profile-image" alt="profile-image"  />  | **crazyman**(Leader)<br /> no Forensics no life <br />- Blog: [https://crazymanarmy.github.io](//crazymanarmy.github.io/)<br />- Github: [crazyman](//github.com/crazymanarmy) |
 | <img src="assets/profile/deebato.jpg" class="profile-image" alt="profile-image"  />  | **deebato**(Leader)<br />Baby challenger of crypto.<br />- Blog: [https://d33b4t0.com/](//d33b4t0.com/)<br />- Github: [deebato](//github.com/D33BaT0) |
 | <img src="assets/profile/swing.jpeg" class="profile-image" alt="profile-image"  />  | **Swings** <br />Focus on Vulnerability Discovering &Active in CTF, PWN/Reverse<br />- Blog: [https://bestwing.me/](//bestwing.me/)<br />- Github: [WinMin](//github.com/WinMin) |
 | <img src="assets/profile/nonick.gif" class="profile-image" alt="profile-image"  />  | **Nonick**<br />Uneducated<br />- Blog: [http://127.0.0.1/](http://127.0.0.1/)<br />- Github: [unamer](//github.com/unamer) |
