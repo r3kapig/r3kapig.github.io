@@ -45,9 +45,9 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/mochizou.jpg" class="profile-image" alt="profile-image" /> | **Mochizou** <br />I reverse engineer and hack windows, also sad all the time.<br />- Github: [Mochizou](//github.com/MochiNishimiya) |
 | <img src="assets/profile/clowncs.jpg" class="profile-image" alt="profile-image" /> | **clowncs** <br />Noob reverser, F5 Assemble<br />- Github: [clowncs](//github.com/clowncs) |
 | <img src="assets/profile/JANlittle.PNG" class="profile-image" alt="profile-image" /> | **JANlittle** <br />Reverse. My reverse level depends on the level of advancement of the decompiler. <br />- Blog: [JANlittle](https://janlittle.github.io/)<br />- Github: [JANlittle](//github.com/JANlittle) |
-| <img src="assets/profile/frank.jpg" class="profile-image" alt="profile-image"  /> | **FrankWu** <br />和我组一辈子的战队打 CTF 吧<br/> - 主页: [FrankOverFlow](//FrankOverFlow.com) <br />- Github: [GhostFrankWu](//github.com/GhostFrankWu) |
+| <img src="assets/profile/frank.jpg" class="profile-image" alt="profile-image"  /> | **FrankWu** <br />Do something interesting. Do something meaningful.<br/> - About: [FrankOverFlow](//FrankOverFlow.com) <br />- Github: [GhostFrankWu](//github.com/GhostFrankWu) |
 | <img src="//xia0.sh/avatar.jpg" class="profile-image" alt="profile-image"  /> | **xia0** <br />love making things do what they should not do.<br/> - Blog: [xia0](//xia0.sh) <br />- Github: [KpwnZ](//github.com/KpwnZ) |
-| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**<br />喵...喵喵喵？<br />- Blog（目前已经无了）: [FallingRaindrop](https://fallingraindrop.moe/) |
+| <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**<br />Meow… meow, meow meow?<br />- Blog(down at the moment): [FallingRaindrop](https://fallingraindrop.moe/) |
 | <img src="assets/profile/biluv.jpg" class="profile-image" alt="profile-image" /> | **luv**<br /> Hi there <br />- Github: [luv](https://github.com/blluv/) |
 
 <br>
