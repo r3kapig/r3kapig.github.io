@@ -50,6 +50,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/raindrop.jpg" class="profile-image" alt="profile-image" /> | **Raindrop**<br />Meow… meow, meow meow?<br />- Blog(down at the moment): [FallingRaindrop](https://fallingraindrop.moe/) |
 | <img src="assets/profile/biluv.jpg" class="profile-image" alt="profile-image" /> | **luv**<br /> Hi there <br />- Github: [luv](https://github.com/blluv/) |
 | <img src="assets/profile/elma.jpg" class="profile-image" alt="profile-image" /> | **elma**<br />always eepy<br />- Blog: [elmo](https://blog.elmo.sg)<br/>- Github: [caprinux](https://github.com/caprinux/) |
+| <img src="assets/profile/saccharide.png" class="profile-image" alt="profile-image" /> | **saccharide**<br/>learning interesting things<br/>- Github: [saccharide](https://github.com/saccharide/) |
 
 <br>
 
