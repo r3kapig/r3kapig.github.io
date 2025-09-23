@@ -55,6 +55,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/karu.jpg" class="profile-image" alt="profile-image" /> | **karu**<br/>jack of all trades, might master some later idk.<br/>- Blog: [karu](https://itskarudo.github.io)<br/>- Github: [itskarudo](https://github.com/itskarudo/) |
 | <img src="assets/profile/carbofish.png" class="profile-image" alt="profile-image"  />  | **carbofish** <br /> Reverse<br />- About: [carbo.ink](//carbo.ink/)<br />- Github: [carbofish](//github.com/carbofish) |
 | <img src="assets/profile/zeroc.jpg" class="profile-image" alt="profile-image" />  | **zeroc** <br /> Aquarius<br />- Blog: [zeroc](//blog.zeroc0077.cn/)<br />- Github: [zeroc0077](//github.com/Zeroc0077) |
+| <img src="assets/profile/s1nk.jpg" class="profile-image" alt="profile-image" />  | **s1nk** <br /> Reverse, Android <br />- Blog: [gaoyucan](//blog.gaoyucan.site/)<br />- Github: [GaoYuCan](//github.com/GaoYuCan) |
 
 <br>
 
