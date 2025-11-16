@@ -57,6 +57,7 @@ If necessary, this is our official email: root@r3kapig.com
 | <img src="assets/profile/zeroc.jpg" class="profile-image" alt="profile-image" />  | **zeroc** <br /> Aquarius<br />- Blog: [zeroc](//blog.zeroc0077.cn/)<br />- Github: [zeroc0077](//github.com/Zeroc0077) |
 | <img src="assets/profile/s1nk.jpg" class="profile-image" alt="profile-image" />  | **s1nk** <br /> Reverse, Android <br />- Blog: [gaoyucan](//blog.gaoyucan.site/)<br />- Github: [GaoYuCan](//github.com/GaoYuCan) |
 | <img src="assets/profile/rcv.png" class="profile-image" alt="profile-image" />  | **rcv** <br /> 🥺 <br />-  Github: [writegsqword](https://github.com/writegsqword) |
+| <img src="assets/profile/t1d.jpg" class="profile-image" alt="profile-image" /> | **T1d** <br /> Good at eating 🤤, and after that, I love checking out some pwn 🥰. <br />- Blog: [trifish](https://he.tr17ish.top/)<br />- Github: [TLD1027](https://github.com/TLD1027/) |
 
 <br>
 
