@@ -62,6 +62,7 @@ id: index
 | <img src="assets/profile/s1nk.jpg" class="profile-image" alt="profile-image" />  | **s1nk** <br /> Reverse, Android <br />- Blog: [gaoyucan](//blog.gaoyucan.site/)<br />- Github: [GaoYuCan](//github.com/GaoYuCan) |
 | <img src="assets/profile/rcv.png" class="profile-image" alt="profile-image" />  | **rcv** <br /> 🥺 <br />-  Github: [writegsqword](https://github.com/writegsqword) |
 | <img src="assets/profile/t1d.jpg" class="profile-image" alt="profile-image" /> | **T1d** <br /> 喜欢吃🤤，吃饱了喜欢看看pwn🥰 <br />- Blog: [trifish](https://he.tr17ish.top/)<br />- Github: [TLD1027](https://github.com/TLD1027/) |
+
 <br>
 
 ## 历史活跃成员
